@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--#include virtual="shared/meta.shtml"-->
+    <title>About – CUEIMS</title>
+</head>
+<body>
+    <!--#include virtual="shared/header.shtml"-->
+    <div class="container">
+        <br/>
+        <h3><em>“The Cambridge University Ethics in Mathematics Society aims to discuss
+        and promote awareness of ethical issues faced by mathematicians and
+        mathematics graduates in their working life.”</em></h3>
+        <hr/>
+        <h1>About Us</h1>
+        <p><a href="constitution-2019.pdf">Our constitution</a></p>
+<p>The Cambridge University Ethics in Mathematics Society exists to bring lectures and discussion
+to mathematics students at Cambridge University on issues around ethical
+questions and problems that working mathematicians may face as part of their
+professional lives. Cambridge mathematics graduates leave with a uniquely
+strong background in mathematics, which makes them highly employable in a range
+of industries as working mathematicians.  But – as we have come to realise –
+mathematicians in the workplace, doing mathematics, may well have to deal with
+difficult and particular ethical decisions that derive from the practices of
+their mathematical work (quite apart from the ethical issues that all people
+may come to face in whatever walks of life).</p>
+ 
+<p>We are not at all a discussion forum for philosophy, and we have had no
+philosophers give talks to the society.</p>
+ 
+<p>We are also extremely aware that the ethical issues that working
+mathematicians may face will often come embedded in politics, or have
+subsequent political consequences. We have worked very hard to keep these two
+separate, feeling that the ethical issues mathematicians need to recognise and
+the tools needed to confront the unique ethical questions that arise from the
+real world practice of mathematics are separate from the political
+considerations that such ethical issues may engender. How one deals with such
+political considerations is left as an exercise for the reader because that
+goes well beyond the a-political remit that the Society has set for itself.
+This division is obviously artificial, but it allows ethical discussions to
+remain safe and independent of different larger political feelings many of the
+members will have.</p>
+    </div>
+</body>
+</html>

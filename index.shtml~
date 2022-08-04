@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+    <!--#include virtual="shared/meta.shtml"-->
+    <title>CUEIMS</title>
+</head>
+<body>
+    <!--#include virtual="shared/header.shtml"-->
+    <div class="container">
+        <h1 style="text-align: center">Cambridge University Ethics in Mathematics Society</h1>
+        <div class="row">
+            <div class="col-sm-6">
+                <p>
+                    Mathematics is one of the most fundamental areas of human study. It is both the language and the tool that connects our abstract understanding with the physical world. Mathematics lies at the very heart of all technological developments. Its universality is unquestionable.
+                </p>
+                <p>
+                    As such, its depth and complexity make it extremely useful. Useful because it helps us to understand the world, to our advantage. Useful because it allows us to manipulate the world, to our advantage. Useful because it empowers us to redirect the world, to our advantage. Ultimately, mathematics is useful because it gives us incredible power to change things; virtually every thing around us.
+                </p>
+                <p>
+                    But if we pause to reflect on this, we see that the utility of mathematics is derived from the way that it empowers us to understand, change, direct and manipulate the world around us, and not the other way around. It does not change the world because it is useful; it is useful because it can change the world.
+                </p>
+                <p>
+                    We see mathematics as a tool for doing good, because we can find good useful things to do with it. But none of the arguments above require us to assume that we are doing <em>good</em> with mathematics. It is clearly used as a way for humans to understand, change, direct and manipulate the world around us. But, just as this can be for good, it can also be for bad. Indeed, those who have the greatest ability to understand and manipulate the world hold the greatest capacity to do damage and inflict harm.
+                </p>
+                <p>
+                    And this brings us to the point of our society. We are here to help mathematicians to understand that their work, output, insight and labour can be used not only for good, but also for bad. Mathematics is an extremely sharp double-edged blade. When directed towards the betterment of society, it can effect rapid positive change. However, when placed in the hands of those who wish to carry out acts that inflict harm on society, intentionally or otherwise, it can inflict incredible harm with astonishing efficiency.
+                </p>
+                <p>
+                    We believe that mathematics is used as a powerful tool, giving rise to serious ethical considerations. Our mathematical work does not simply exist in some abstract universe. Mathematics is a tool wielded <em>by</em> people, and thus subject to the desires, objectives and will <em>of</em> people. As such, we as mathematicians need to be aware of this. We need to realise that mathematics can be, and sometimes is, used in a harmful way. We need to have the foresight to anticipate such events before they happen. And we need to be prepared to do something about it.
+                </p>
+                <p>
+                    We have seen many examples in society where mathematicians have used their skills and training to inflict harm. Historically, the Manhattan Project is one of the most highly-debated cases of technological development, and it involved several of the finest mathematical minds of the time. The diesel-gate scandal at Volkswagen, where cars were fitted with ingenious cheat devices to circumvent emissions tests, is another more recent example. And less than a year ago, several operating system exploits developed by the NSA (such as EternalBlue) entered the public domain, where they were quickly used to develop crippling malware like WannaCry. Such examples are numerous, and have become more and more common in recent times.
+                </p>
+                <p>
+                    With the rapid advancement of technology, mathematicians have been thrust into the engine room of human endeavour. Our discipline, once heralded as "pure", studied for its "beauty", and seen as "detached from the physical world", now shoulders a great social responsibility. And we as mathematicians need to appreciate this new burden that we carry. Otherwise, by carrying on in the paradoxical belief that mathematics is useful but never harmful, we will sleepwalk into becoming agents of harm.
+                </p>
+            </div>
+            <div class="col-sm-6">
+                <p>
+                    We are the Cambridge University Ethics in Mathematics Society, and we are here to help mathematicians recognise the ethical questions that arise when doing mathematics. By hosting seminars, talks, and discussions, we hope to teach mathematicians about the harm that they can do, and give them some of the tools and insight that they will need to prevent such harm from taking place.
+                </p>
+                <p>
+                    Most of our talks take place in the Centre for Mathematical Sciences.
+                </p>
+                <p><b>
+                    Sign up to our <a href="https://lists.cam.ac.uk/mailman/listinfo/soc-cueims">mailing list</a> (or like our <a href="https://www.facebook.com/cueims">Facebook page</a>) for the latest updates.
+                </b></p>
+                <p><b>
+                    Contact us at <a href="mailto:cueims@srcf.net">cueims@srcf.net</a>.
+                </b></p>
+                <p><b>
+                    Find us on <a href="https://www.youtube.com/channel/UCXYvnBHXYKz6lSywJiPod4Q">YouTube</a>, <a href="https://www.facebook.com/cueims">Facebook</a>, and <a href="https://twitter.com/cueims">Twitter</a>.
+                </b></p>
+                <!--<p>
+                    We are introducing 'Ethics Teas' before our seminars this Michaelmas.
+                    Come along at 4pm (also in MR4) for tea/coffee and biscuits,
+                    and relaxed discussion about ethics before Maurice arrives
+                    to present the main seminar.
+                </p>-->
+                <hr/>
+                <h2>Upcoming Events:</h2>
+                <font size="5"><em>Leila Scheps</em> speaking on</font><br/>
+                <b>Maths in the Courtroom</b><br/>
+                <b>Monday 10th February 2020, 5:00pm – MR2, CMS</b><br/>
+                <hr/>
+                <font size="5"><em>James Wright</em> speaking on</font><br/>
+                <b>Becoming a Reflective Mathematician</b><br/>
+                <b>Monday 24th February 2020, 5:00pm – MR2, CMS</b><br/>
+James Wright discusses how researching how
+to develop a stronger mathematical mindset lead to the realisation that
+the metacognative model of reflective practitioners could be mapped onto
+work done by Pólya and Mason. He will go over the mapping process
+between the two models with the aim of providing an insight into how
+mathematicians have most of the tools they need to solve ethical
+dilemas.  He will also present a conjecture on why he thinks
+mathematicians and "hard" scientists don't normally apply their
+metacognitive practices to ethical problems, before presenting some
+final thoughts on how the process of modelling generates ethical
+conflicts.
+                <hr/>
+                See the <a href="events">events page</a> for a full listing.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

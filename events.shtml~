@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+    <!--#include virtual="shared/meta.shtml"-->
+    <title>Events - CUEIMS</title>
+</head>
+<body>
+    <!--#include virtual="shared/header.shtml"-->
+    <div class="container">
+        <h1>Upcoming Events:</h1>
+            <!--There are currently no confirmed upcoming events-->
+        <div class="row">
+            <font size="5"><em>Leila Scheps</em> speaking on</font><br/>
+            <b>Maths in the Courtroom</b><br/>
+            <b>Monday 10th February 2020, 5:00pm – MR2, CMS</b><br/>
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>James Wright</em> speaking on</font><br/>
+            <b>Becoming a Reflective Mathematician</b><br/>
+            <b>Monday 24th February 2020, 5:00pm – MR2, CMS</b><br/>
+James Wright discusses how researching how
+to develop a stronger mathematical mindset lead to the realisation that
+the metacognative model of reflective practitioners could be mapped onto
+work done by Pólya and Mason. He will go over the mapping process
+between the two models with the aim of providing an insight into how
+mathematicians have most of the tools they need to solve ethical
+dilemas.  He will also present a conjecture on why he thinks
+mathematicians and "hard" scientists don't normally apply their
+metacognitive practices to ethical problems, before presenting some
+final thoughts on how the process of modelling generates ethical
+conflicts.
+        </div>
+        <hr/>
+        <h1>Past Events:</h1>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Looking into the future, what more can mathematicians do?</b><br/>
+            <b>Tuesday 3rd December 2019, 4:00pm – MR4, CMS</b><br/>
+Being aware of the ethical issues that you as a mathematician may face is an
+extremely important step. But this is only the first in a sequence of potential
+steps. You can take this further, by starting to tell other mathematicians you
+work with or interact with. You can try and get involved with decision-making
+processes, by taking a seat at tables of power and authority. And you could
+even work towards identifying the unethical behaviour of other mathematicians
+completely unrelated to you, and call out their harmful actions to the
+community and to the public. This is fairly new and uncharted territory for
+mathematicians, and they're exactly the sorts of activities we shy away from.
+But now is the time to step up and take responsibility, because if we don't do
+it, then no-one else will.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Psychology 101: How to survive as a mathematician at work</b><br/>
+            <b>Tuesday 26th November 2019, 4:00pm – MR4, CMS</b><br/>
+All mathematicians will, eventually, form some part of the workforce. The
+abstract nature of mathematics may lead us to believe that our role is
+"special", and that we won't need to worry about the usual workplace
+interactions, issues, conflicts and dangers that may arise in other
+professions. This is simply not true. We face the same issues, and need to know
+how to deal with them. Our focused and dedicated nature means that we may
+easily overlook instances of others trying to exploit or manipulate us at work,
+resulting in harm to ourselves, and our work becoming harmful to wider society.
+We need to know how to identify such people and situations, and to protect
+ourselves against them. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Understanding the behaviour of the mathematical community</b><br/>
+            <b>Tuesday 19th November 2019, 4:00pm – MR4, CMS</b><br/>
+Just like every other academic field, mathematicians form their own community,
+with their own conventions, common beliefs, and schools of thought. We hand our
+teachings down through the generations, and this process goes all the way back
+to Euclid. But the ways of thinking we employ when doing mathematics in an
+abstract research setting may not serve us well in an industrial setting. It is
+important to be aware that not all the actions that make us good at mathematics
+will necessarily lead to us producing good solutions to industrial or social
+problems. In fact, some of our ways of viewing and approaching problems will
+hold us back when working outside academia. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Regulation, accountability, and the law</b><br/>
+            <b>Tuesday 12th November 2019, 4:00pm – MR4, CMS</b><br/>
+The work of mathematicians in industry is now very close to its tangible
+applications; we produce output that is extremely quick and easy to use. Just
+look at machine-learned algorithms that compute credit scores. Now that we sit
+so close to the applications, we need to consider what sort of responsibility
+we have. There are things we are, and aren't, legally allowed to do. And there
+are consequences we might face if we fall foul of the law. Moreover, given that
+our work is often cutting-edge, we must self-regulate to prevent the types of
+harm that legislators and others have yet to realise is even possible. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Cryptography, surveillance and privacy</b><br/>
+            <b>Tuesday 29th October 2019, 4:00pm – MR4, CMS</b><br/>
+Mathematicians have always played a central role in the making, and breaking,
+of cryptography. We also play a key role in developing surveillance tools, both
+for state actors and private organisations. Thus, we have several ways of
+enabling the infringement of the privacy of others. We can do so deliberately,
+by designing tools to break strong encryption, or indirectly, by creating
+systems and platforms which collect massive amounts of personal data of
+individuals. And we can do it accidentally, by being careless or sloppy in the
+way we store the data of others. In all of these cases, our work determines how
+much privacy people can have. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Financial Mathematics and Modelling</b><br/>
+            <b>Tuesday 22nd October 2019, 4:00pm – MR4, CMS</b><br/>
+We all know about examples of mathematicians misbehaving in finance, and even
+being jailed as a result: Tom Hayes and Ke Xu are two examples. But more subtle
+are the modelling tools mathematicians produce. Mathematical modelling is
+ubiquitous in understanding the way the world works, from finance to physics to
+climate patterns. Understanding how to develop and use a model, as well as its
+limitations, and the way it interacts with the world, is indispensable in
+preventing it from causing harm. Unfortunately, as we saw in the financial
+crash of 2007, such models are sometimes poorly understood, with devastating
+consequences.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: An introduction to ethics in mathematics and why it is important</b><br/>
+            <b>Tuesday 15th October 2019, 4:00pm – MR4, CMS</b><br/>
+Mathematicians sit at the heart of technological advancement and industrial
+progress. Mathematics is a universal tool. It can be used for good, and it can
+be used for harm. To begin, we look at where harmful situations may arise, and
+what exactly we as mathematicians are doing to contribute to that harm. Though
+this harm may not (necessarily) come from intentional malice, there are many
+situations, and people, who can influence and manipulate us into carrying out
+harmful acts as mathematicians. It is important to be able to recognise and
+react to these scenarios, as we cannot always rely on external forces such as
+management to guide what we do. 
+        </div>
+        <hr/>
+        <div class="row">
+            <b>EiM 2: The second meeting on Ethics in Mathematics</b><br/>
+            <b>Wednesday 3rd - Friday 5th April 2019, CMS</b><br/>
+            This conference, organised by Dr Maurice Chiodo with the assistance
+            of Dr Piers Bursill-Hall, brings together a number of speakers and
+            guests from Cambridge, the UK, and the rest of the world, to
+            discuss various topics relating to ethics in mathematics.<br/>
+            The event has limited capacity and is now fully booked, but video
+            recordings of the talks will be available online after the event.<br/>
+            For more details, visit <a href="http://www.ethics.maths.cam.ac.uk/EiM2">http://www.ethics.maths.cam.ac.uk/EiM2</a>.
+        </div>
+        <hr/>
+        <!--div class="row">
+            <font size="5">This talk was CANCELLED:</font><br/>
+            <font size="5"><em>Glenys Wilson</em> speaking on</font><br/>
+            <b>How does a mathematical mindset affect the way we see the world?</b><br/>
+            <b>Friday 8th March 2019, 5:00pm – MR4, CMS</b><br/>
+How do you feel when you do maths? Why do you do it, and why do you choose to
+do it over other things? In this talk we'll be looking at the way
+mathematicians view problems:  logically, with precision, and in a detached and
+objective way. We'll discuss why mathematicians might enjoy, seek out, and be
+good at viewing things in that way, and perhaps why they might be reluctant to
+tackle problems that cannot be made precise. We'll discuss how that carries
+over to how mathematicians view the world and how these attributes impact them
+in other parts of their daily life.<br/>
+Glenys is a senior clinical psychologist now living in the UK, and previously
+worked at the University of Melbourne as a specialist focusing on
+neurodiversity.
+        </div>
+        <hr/-->
+        <div class="row">
+            <font size="5"><em>Tanja Lange</em> (joined by <em>Daniel J. Bernstein</em>) speaking on</font><br/>
+            <b>Backdoors always Backfire</b><br/>
+            <b>Thursday 21st February 2019, 5:00pm – MR2, CMS</b><br/>
+The Snowden revelations in 2013 shook up the cryptographic community when
+documents showed evidence of actions to subvert standards and restrict
+“indigenous cryptography”. This talk will shine a light on the history of the
+most famous standardized back door, the Dual-EC pseudo-random number generator,
+and how it came into being a standard. Dual-EC is also a textook example,
+though not the only one, of how back doors go bad. The talk will also cover
+some lesser known issues with standards and that it is sometimes hard to
+distinguish sabotage from bad, but benign, cryptographic designs.<br/>
+Tanja Lange works on cryptography and number theory. She is the chair of the
+Coding Theory and Cryptology group at the Technische Universiteit Eindhoven in
+the Department of Mathematics and Computer Science. She is also scientific
+director of the Eindhoven Institute for the Protection of Systems and
+Information.<br/>
+Daniel J. Bernstein is a research professor in the department of computer
+science at the University of Illinois at Chicago. He is the designer of the
+"Curve25519" public-key system used by WhatsApp for end-to-end encryption, many
+more tools used throughout the Internet infrastructure, and new tools designed
+to protect against the threat of future quantum computers. His current mission
+is to cryptographically protect every Internet packet.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Richard Stallman</em> speaking on</font><br/>
+            <b>A Free Digital Society</b><br/>
+            <b>Tuesday 19th February 2019, 4:00pm – MR2, CMS</b><br/>
+<em>This will be a pre-recorded lecture followed by a remote Q&amp;A.</em><br/>
+There are many threats to freedom in the digital society. They include massive
+surveillance, censorship, digital handcuffs, nonfree software that controls
+users, and the War on Sharing. Computers for voting make election results
+untrustworthy. Other threats come from use of web services.  Finally, we have no assured right
+to make any particular use of the Internet; every activity is precarious,
+permitted only as long as companies are willing to cooperate with our doing it.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Martin Hellman</em> speaking on</font><br/>
+            <b>Reflections on Ethics and Cryptography</b><br/>
+            <b>Tuesday 29th January 2019, 4:00pm – MR2, CMS</b><br/>
+            <a href="hellman">Follow-up notes from Martin Hellman</a><br/>
+As computers and computing, and their underlying algorithms, become more
+pervasive in our lives, ethical decision making is becoming ever more important
+in mathematics. This talk hopes to help mathematicians, as developers of these
+algorithms, rise to that challenge. It does so first by demonstrating how
+easily we fool ourselves, using a personal example where I did that when
+confronted with the inadequate 56-bit key size of the Data Encryption Standard
+(DES). It then uses another personal example, Stanford's patent fight with RSA
+Data Security, to show how difficult it was for me to make ethical decisions
+even after I had committed never to fool myself again. The resolution of my
+dilemma demonstrates the value of getting input from outside parties, of
+lowering the bar for what constitutes unethical behavior, and of working to
+make society more ethical as a whole.<br/>
+<em>This will be a videolink talk.</em>
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Looking into the future, what more can mathematicians do?</b><br/>
+            <b>Tuesday 27th November 2018, 4:30pm – MR4, CMS</b><br/>
+Being aware of the ethical issues that you as a mathematician may face is an
+extremely important step. But this is only the first in a sequence of potential
+steps. You can take this further, by starting to tell other mathematicians you
+work with or interact with. You can try and get involved with decision-making
+processes, by taking a seat at tables of power and authority. And you could
+even work towards identifying the unethical behaviour of other mathematicians
+completely unrelated to you, and call out their harmful actions to the
+community and to the public. This is fairly new and uncharted territory for
+mathematicians, and they're exactly the sorts of activities we shy away from.
+But now is the time to step up and take responsibility, because if we don't do
+it, then no-one else will. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Psychology 101: How to survive as a mathematician at work</b><br/>
+            <b>Tuesday 20th November 2018, 4:30pm – MR4, CMS</b><br/>
+All mathematicians will, eventually, form some part of the workforce. The
+abstract nature of mathematics may lead us to believe that our role is
+"special", and that we won't need to worry about the usual workplace
+interactions, issues, conflicts and dangers that may arise in other
+professions. This is simply not true. We face the same issues, and need to know
+how to deal with them. Our focused and dedicated nature means that we may
+easily overlook instances of others trying to exploit or manipulate us at work,
+resulting in harm to ourselves, and our work becoming harmful to wider society.
+We need to know how to identify such people and situations, and to protect
+ourselves against them. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Understanding the behaviour of the mathematical community</b><br/>
+            <b>Tuesday 13th November 2018, 4:30pm – MR4, CMS</b><br/>
+Just like every other academic field, mathematicians form their own community,
+with their own conventions, common beliefs, and schools of thought. We hand our
+teachings down through the generations, and this process goes all the way back
+to Euclid. But the ways of thinking we employ when doing mathematics in an
+abstract research setting may not serve us well in an industrial setting. It is
+important to be aware that not all the actions that make us good at mathematics
+will necessarily lead to us producing good solutions to industrial or social
+problems. In fact, some of our ways of viewing and approaching problems will
+hold us back when working outside academia. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Regulation, accountability, and the law</b><br/>
+            <b>Tuesday 6th November 2018, 4:30pm – MR4, CMS</b><br/>
+The work of mathematicians in industry is now very close to its tangible
+applications; we produce output that is extremely quick and easy to use. Just
+look at machine-learned algorithms that compute credit scores. Now that we sit
+so close to the applications, we need to consider what sort of responsibility
+we have. There are things we are, and aren't, legally allowed to do. And there
+are consequences we might face if we fall foul of the law. Moreover, given that
+our work is often cutting-edge, we must self-regulate to prevent the types of
+harm that legislators and others have yet to realise is even possible. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Fairness and impartiality in algorithms and AI</b><br/>
+            <b>Tuesday 30th October 2018, 4:30pm – MR4, CMS</b><br/>
+Algorithms run the world, and mathematicians are designing them. Algorithms
+decide what people read, what they buy, and when then can get a loan. We often
+design these systems to remove human subjectivity from decision making
+processes and to make them impartial, as is being done with predictive policing
+algorithms and prison sentencing algorithms. But how impartial, or fair, can a
+system designed by humans ever be? Moreover, the internet and big data have
+given rise to massive new potential, from targeted political advertising as
+done by Cambridge Analytica, to AI technology such as deepfake videos and
+self-driving cars.  Our "solutions" in these instances can bring about a whole
+new set of problems. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Cryptography, surveillance and privacy</b><br/>
+            <b>Tuesday 23rd October 2018, 4:30pm – MR4, CMS</b><br/>
+Mathematicians have always played a central role in the making, and breaking,
+of cryptography. We also play a key role in developing surveillance tools, both
+for state actors and private organisations. Thus, we have several ways of
+enabling the infringement of the privacy of others. We can do so deliberately,
+by designing tools to break strong encryption, or indirectly, by creating
+systems and platforms which collect massive amounts of personal data of
+individuals. And we can do it accidentally, by being careless or sloppy in the
+way we store the data of others. In all of these cases, our work determines how
+much privacy people can have. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: Financial mathematics and modelling</b><br/>
+            <b>Tuesday 16th October 2018, 4:30pm – MR4, CMS</b><br/>
+We all know about examples of mathematicians misbehaving in finance, and even
+being jailed as a result: Tom Hayes and Ke Xu are two examples. But more subtle
+are the modelling tools mathematicians produce. Mathematical modelling is
+ubiquitous in understanding the way the world works, from finance to physics to
+climate patterns. Understanding how to develop and use a model, as well as its
+limitations, and the way it interacts with the world, is indispensable in
+preventing it from causing harm. Unfortunately, as we saw in the financial
+crash of 2007, such models are sometimes poorly understood, with devastating
+consequences. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar: An introduction to ethics in mathematics and why it is important</b><br/>
+            <b>Tuesday 9th October 2018, 4:30pm – MR4, CMS</b><br/>
+Mathematicians sit at the heart of technological advancement and industrial
+progress.  Mathematics is a universal tool. It can be used for good, and it can
+be used for harm. To begin, we look at where harmful situations may arise, and
+what exactly we as mathematicians are doing to contribute to that harm. Though
+this harm may not (necessarily) come from intentional malice, there are many
+situations, and people, who can influence and manipulate us into carrying out
+harmful acts as mathematicians. It is important to be able to recognise and
+react to these scenarios, as we cannot always rely on external forces such as
+management to guide what we do. 
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Edward Snowden</em> speaking</font><br/>
+            <b>Wednesday 2nd May 2018, 4:15–5:45pm – MR2+MR3, CMS</b><br/>
+CUEIMS hosted Edward Snowden via videolink. He gave a talk followed by a
+moderated question and answer session with active audience participation.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> hosting</font><br/>
+            <b>EiM 1: The first meeting on Ethics in Mathematics</b><br/>
+            <b>Friday 20th - Saturday 21st April 2018, 9:00am-6:00pm - MR4, CMS</b><br/>
+            This conference, organised by Dr Maurice Chiodo with the assistance
+            of Dr Piers Bursill-Hall, brings together a number of speakers and
+            guests from Cambridge, the UK, and the rest of the world, to
+            discuss various topics relating to ethics in mathematics.<br/>
+            A live stream of this event was available via our
+            <a href="https://www.youtube.com/channel/UCXYvnBHXYKz6lSywJiPod4Q">Youtube channel</a>.<br/>
+            For more details, visit <a href="http://www.ethics.maths.cam.ac.uk/EiM1">http://www.ethics.maths.cam.ac.uk/EiM1</a>.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Pub discussion/Seminar 9: Winning with mathematics</b><br/>
+            <b>Thursday 15th March 2018, 8:00pm - Pickerel Inn</b><br/>
+Mathematics is frequently used in competitive environments, to help people
+optimise their situation by finding the best tactical position to take. This is
+often very technical work, taking in to account all sorts of real-world factors
+to find the "winning" position. So how do we go about identifying all these
+factors, how do we weigh them all up, and what does it even mean to "win"? We
+can't solve a problem if we don't have an understanding of what we are solving
+and why we are solving it.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Pub discussion/Seminar 10: Mathematicians being leaders</b><br/>
+            <b>Thursday 8th March 2018, 8:00pm – Castle Inn</b><br/>
+The notions of "leadership" and "mathematics" are seldom mentioned together in
+conversation. Yet there are mathematicians who choose to be in, or
+inadvertently find themselves in, positions of management and leadership. These
+scenarios can arise in both in academia and in industry. But is it even
+possible for a mathematician to lead effectively?  How do we reconcile our
+training in axiomatised mathematics with the interpersonal dynamics and social
+considerations that we must deal with as leaders? There is much more to
+leadership than bean-counting and number-crunching.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Prof Bonnie Shulman (Bates College)</em> speaking</font><br/>
+            <b>Thursday 1st March 2018, 5:00pm – MR4, CMS</b><br/>
+Bonnie Shulman’s focus is in Mathematical Physics but she takes a strong
+interest in philosophy of science and mathematics. Throughout her academic
+career she has devoted attention to ethical issues that arise in mathematics
+alongside her mathematics research, which includes Mathematical Biology and
+Game Theory.  Publications she has authored include “Is There Enough Poison Gas
+to Kill the City?: The Teaching of Ethics in Mathematics Classes” and "Using
+Original Sources to Teach Mathematics in Social Context".
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Prof Joanna Bryson (Bath/Princeton)</em> speaking</font><br/>
+            <b>Monday 12th February 2018, 5:00pm – MR4, CMS</b><br/>
+Professor Bryson’s first and third degrees were in Psychology, while her 2nd
+and 4th were in Artificial Intelligence, so she approaches AI for the purpose
+of understanding human behaviour. Joanna has worked in AI ethics since 1996,
+and helped author the UK research councils’ Principles of Robotics in 2010.
+Just in the last two months she’s consulted to The Red Cross on autonomous
+weapons, Chatham House on the impact of AI on the nuclear threat, and she’s
+currently advising the British Parliament, European Parliament, and the OECD
+regarding the regulation of AI.<br/>
+She'll be discussing her experiences working in AI policy with politicians
+and NGOs. She has said that she is willing to show and discuss some of
+the same slides and talks she's given in some of those meetings, as well as
+describing her experience of getting the Principles of Robotics taken up by
+government, industry and citizens.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> and <em>William Binney</em> presenting</font><br/>
+            <b>Seminar 8: Standing on the shoulders of giants</b><br/>
+            <b>Thursday 8th February 2018, 5:00pm – MR4, CMS</b><br/>
+Our understanding of mathematics comes from building on that of those who came
+before us; we are taught and mentored by them. We admire their work, and by
+extension we admire them as people. So how well do these mathematicians prepare
+us for the real world, and how much more do we need to know? We work very hard
+to emulate them, but we must be careful not to do so absolutely or without
+question.<br/>
+The seminar will end with an open discussion with William Binney.
+William Binney is a cryptomathematician, and former employee and whistleblower
+of the NSA. He has spoken to CUEIMS previously on 'the Dangers of Success',
+and is with us again for a more informal discussion on the responsibilities of
+the working mathematician.<br/>
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar 7: The impartiality of mathematics</b><br/>
+            <b>Thursday 1st February 2018, 5:00pm – MR4, CMS</b><br/>
+We hold mathematics in very high regard, as the beacon of absolute truth.
+Mathematics does not have any intrinsic prejudice or bias; it reveals truth.
+But how do we infer meaning from truth? Mathematicians design systems to remove
+human subjectivity from decision making processes, to make them more impartial.
+Does this mean that that we've removed all subjectivity from the process? We
+must realise the strengths, and weaknesses, of the systems we design.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar 6: Using mathematics to prevent harm</b><br/>
+            <b>Thursday 25th January 2018, 5:00pm – MR4, CMS</b><br/>
+Mathematics can be used to fight crime, avert destruction, and protect our
+society. But how far are we willing to go to do this, what are the drawbacks of
+such pursuits, and are they worth doing "at any cost"? In the pursuit of
+preventing harm and improving society, are we capable of doing even more harm
+in the process? There are instances when this is obvious, but also instances
+when it becomes somewhat opaque.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar 5: Mathematical precision</b><br/>
+            <b>Tuesday 28th November 2017, 4:00pm – MR3, CMS</b><br/>
+Mathematics is the most precise of all disciplines of study. We work on the
+basis of absolute precision, and of absolute truth. Once a problem has been
+"translated" into mathematics, we can manipulate it <em>perfectly</em>. But is
+this always a good thing? Is it always a good idea to be completely precise in
+everything we do? Are there any times when we should not be completely precise,
+but instead insert a degree of flexibility and humanity in what we say, in what
+we do, in how we act, and in how we think?
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar 4: Mathematicians trying to help</b><br/>
+            <b>Tuesday 21st November 2017, 4:00pm – MR3, CMS</b><br/>
+Mathematicians have taken it upon themselves at several points in history to
+work for the betterment of the human race. We have applied our specialised
+skills and abilities to solve problems of large social, economic and political
+importance. These highly complex solutions that we develop can have, and often
+have had, unintended consequences far beyond their original design. This often
+comes about because mathematicians fail to think ahead and ask the question
+"What am I making, and what else can it be used for?"
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Sir David Spiegelhalter</em> speaking on</font><br/>
+            <b>In an age of 'fake news' and dodgy data, can we communicate statistical evidence impartially?</b><br/>
+            <b>Wednesday 15th November 2017, 5:00pm – MR2, CMS</b><br/>
+            <a href="posters/2017-11-15_Spiegelhalter.pdf">Event poster</a> |
+            <a href="https://www.youtube.com/watch?v=SCdi8CMNyI8">Recording</a><br/>
+Some say we live in a post-truth society abounding in fake news and alternative
+facts, with a declining trust in 'experts'.  Certainly the media are full of
+political and scientific claims about risks, supposedly based on science or
+statistics, but that may be exaggerated or even simply untrue.  I will look at
+the 'pipelines' through which scientific evidence is propagated through the
+media to the public, and suggest ways of improving both the trustworthiness of
+the evidence being communicated, and the ability of audiences to assess the
+quality and reliability of what they are being told.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Professor Jane Hutton</em> speaking on</font><br/>
+            <b>Codes of professional ethics for mathematicians: why?</b><br/>
+            <b>Wednesday 8th November 2017, 5:30pm – MR2, CMS</b><br/>
+            <a href="posters/2017-11-08_Jane_Hutton.pdf">Event poster</a> |
+            <a href="https://www.youtube.com/watch?v=IDM7ogTXGiw">Recording</a><br/>
+Why would a mathematician or statistician need any advice on ethics? Pure
+mathematics surely does not need an apology for pure enjoyment of abstract
+beauty, unsullied by everyday responsibilities.<br/>
+The American Mathematical Society has a
+<a href="https://www.ams.org/about-us/governance/policy-statements/sec-ethics">Policy Statement on Ethical Guidelines</a>,
+first approved in January 1995. I suspect it is not often read. I will compare this with the
+<a href="https://www.isi-web.org/index.php/activities/professional-ethics/isi-declaration">International Statistical Institute Declaration on Professional Ethics</a> of 1985 and 2010, and with
+<a href="https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/">medical codes of conduct</a>.<br/>
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar 3: Doing your job</b><br/>
+            <b>Tuesday 31st October 2017, 4:00pm – MR3, CMS</b><br/>
+            <a href="posters/2017-10-31_Seminar_3.pdf">Event poster</a><br/>
+Do mathematicians have the right to voice moral objection? Is it even possible
+in our line of work? If so, how would we recognise when to object, how would we
+begin to go about it, and what sort of obstacles might we encounter when trying
+to do so? Those who seek our services have the ability to manipulate and coerce
+us, and defending against such coercion is a highly non-trivial task. Handling
+these situations requires real-life experience of them, which is hard (but not
+impossible) to teach.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar 2: The Allure of Mathematics</b><br/>
+            <b>Tuesday 24th October 2017, 4:00pm – MR3, CMS</b><br/>
+            <a href="posters/2017-10-24_Seminar_2.pdf">Event poster</a><br/>
+What motivates us as mathematicians? Ours is one of the few professions where
+we enjoy our job so much that we’d probably do it for free. Our dedication and
+determination to solve mathematical problems is one of our greatest strengths,
+but can also be our undoing. Our ability for extreme focus is a double-edged
+sword; on the one hand it makes us excellent problem solvers, on the other hand
+it restricts our capacity to see the broader implications and consequences of
+our work.
+</div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
+            <b>Seminar 1: Keep Calm and Carry On</b><br/>
+            <b>Tuesday 17th October 2017, 4:00pm – MR3, CMS</b><br/>
+            <a href="posters/2017-10-17_Seminar_1.pdf">Event poster</a><br/>
+To begin, we look at where such ethical issues may arise. What exactly might we
+do as mathematicians that causes harm? Who might we harm, and what might lead
+us to doing so? There are many situations, and people, who can influence and
+manipulate us into carrying out harmful acts as mathematicians. Realising where
+they might lie, and the sort of damage we might end up doing, is the first step
+in learning to combat them.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>William Binney</em> and <em>Arjen Kamphuis</em> speaking on</font><br/>
+            <b>The Dangers of Success</b><br/>
+            <b>Thursday 12th October 2017, 5:30pm – MR2, CMS</b><br/>
+            <a href="posters/2017-03-07_Binney_Kamphuis.pdf">Event poster</a> |
+            <a href="https://www.youtube.com/watch?v=9vbWjsxzQ-8">Recording</a><br/>
+William Binney is a cryptomathematician and former employee of the NSA. He
+designed the privacy-conscious surveillance program ThinThread. After more than
+30 years with the agency, he resigned in protest and became a whistleblower,
+exposing the massive waste in expenditure, and privacy violations, in the NSA's
+new Trailblazer surveillance program. He is the recipient of numerous
+awards for social justice, including the Joe A. Callaway Award for Civic
+Courage, and the Sam Adams Award for Integrity in Intelligence.<br/>
+Arjen Kamphuis worked for IBM as an IT-architect in the 1990s.
+From 2002 to 2010 he advised several European countries on IT-strategy,
+opensource and open standards. Since 2006 he has helped secure the information
+systems of corporates, national government and NGOs. His work ranges
+from regular privacy-compliance and security-awareness up to countering
+espionage against companies, journalists and governments. To keep up
+technically Arjen is involved with the global hacker-scene and keeps in touch
+with (former) employees of spy agencies and other professionals who work at the
+front of critical infrastructure protection.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Thomas Drake</em> speaking on</font><br/>
+            <b>Beyond the Numbers as Eyewitness to History – 'Can you see what I see?'</b><br/>
+            <b>Wednesday 10th May 2017, 3:00–4:30pm – MR3, CMS</b><br/>
+            <a href="posters/2017-05-10_Thomas_Drake.pdf">Event poster</a><br/>
+Thomas Drake was a senior executive of the NSA from 2001 to 2007. In that time,
+he made public disclosures about the surveillance program "Trailblazer" being
+developed by the NSA. This led to him being charged under the Espionage Act in
+the US. He has since received numerous awards, including the Ridenhour Prize
+for Truth-Telling and the Sam Adams Award.<br/>
+Thomas will speak about his time at the NSA, his interactions with other
+mathematicians there, and the the reasons why he chose to become a
+whistleblower.<br/>
+This will be a videolink talk, with ample time for questions at the end.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Julian Assange</em> speaking</font><br/>
+            <b>Wednesday 26th April 2017, 4:15–5:45pm – MR2, CMS</b><br/>
+CUEIMS hosted a discussion with Julian Assange via videolink. He spoke for
+30 minutes, in which he recounted a biography and shared his perspectives on
+ethics in mathematics. His talk was followed by a moderated 45 minute question
+and answer sessions with active audience participation.
+The event was organised in its entirety by CUEIMS.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Prof. Ross Anderson</em> speaking on</font><br/>
+            <b>Keys Under Doormats: What's wrong with requiring government access to all data and communications?</b><br/>
+            <b>Tuesday 7th March 2017, 5:30pm – MR2, CMS</b><br/>
+            <a href="posters/2017-03-07_Ross_Anderson.pdf">Event poster</a> |
+            <a href="https://www.youtube.com/watch?v=LWwaVe1RF0c">Recording</a><br/>
+The FBI Director Jim Comey and the US Attorney General Jeff Sessions want
+government access to stored data, to communications and to the cryptographic
+keys used to protect them. In Britain, the Investigatory Powers Act, slipped
+through parliament in the post-Brexit chaos, gives the Home Secretary wide
+powers to order such access (though much of what the UK agencies want is on US
+servers). The revelations by Ed Snowden revealed significant abuses by the NSA
+and GCHQ of the access they already had, and Brexit makes it likely that EU
+governments and courts will be very wary of letting British firms process data
+on EU nationals. The scene is set for serious tussles over privacy between
+governments, the IT industry and others. How are we to make sense of all
+this?<br/>
+We have been here before. In the "Crypto Wars" of the 1990s, the US
+government tried repeatedly to grab control of civilian uses of cryptography
+using export controls, the Clipper chip, and attempts to license the "trusted
+third parties" in electronic commerce. Some other governments, including
+Britain's, joined in. Eventually, industry saw them off, supported by academia,
+NGOs and the European Commission. Mathematicians suddenly found ourselves in
+the trenches in a battle that set freedom against state control, law
+enforcement against privacy, enterprise against regulation and countries
+against each other. We won Crypto War I in 1999 when the EU passed the
+Electronic Signatures Directive and Al Gore abandoned the fight to control
+crypto in the USA in the hope of getting elected President. What are our
+chances in Crypto War II?<br/>
+Ross Anderson FRS FREng did maths as an undergraduate and a PhD in computing.
+He is Professor of Security Engineering at Cambridge, and leads the Cambridge
+Cybercrime Centre, which collects and analyses data about online wickedness. He
+was one of the designers of the international standards for prepayment
+electricity metering and powerline communications; one of the inventors of the
+AES finalist encryption algorithm Serpent; a pioneer of peer-to-peer systems,
+hardware tamper-resistance and API security; and one of the founders of the
+discipline of security economics. He wrote the standard textbook "Security
+Engineering – A Guide to Building Dependable Distributed Systems". He is a
+Fellow of the Royal Society, the Royal Academy of Engineering, and the
+Institute of Physics, and a winner of the Lovelace Medal – the UK's top award
+in computing.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Alex Chamolly</em> presenting a workshop on</font><br/>
+            <b>Active Listening</b><br/>
+            <b>Monday 27th February 2017, 5:00pm – MR3, CMS</b><br/>
+How good are you at persuading people? How easily can you be persuaded? Some
+little tricks in how you talk to people – and pay attention to what they say -
+can make all the difference. Join us for this seminar/workshop and learn about
+some effective listening techniques used by actual hostage negotiators, that
+can be used to convince people and lead them to open up to you, how to use
+them, and how to defend yourself against them.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Tom Daley</em> speaking on</font><br/>
+            <b>Tech for good</b><br/>
+            <b>Monday 13th February 2017, 5:00pm – MR3, CMS</b><br/>
+Tom works for Aptivate, a Cambridge based IT company developing solutions for
+NGOs. He will talk about his experiences working at a ethically minded
+organisation in the charitable sector.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Guy Lipman</em></font><br/>
+            <b>Monday 6th February 2017, 5:00pm – MR3, CMS</b><br/>
+Guy has worked as a quant (financial mathematician) for the past 16 years, in a
+range of organisations: accounting firms, the Treasury, a bank, and most
+recently two energy trading companies.  He will be talking about some of the
+ways in which ethical questions have impacted his work (and are likely to
+impact the work of anyone working as a quant), and reflect on some of the
+things he tries to consider when making decisions.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Mustafa Warsi</em> presenting a seminar</font><br/>
+            <b>Monday 30th January 2017, 5:00pm – MR3, CMS</b><br/>
+Mustafa is a Part III student here, and will be recapping some of the topics
+discussed last term, as well as discussing some of the decisions we might make
+in response to our ethical concerns.
+        </div>
+        <hr/>
+        <div class="row">
+            <font size="5"><em>Dr. Maurice Chiodo</em> presenting a seminar series on</font><br/>
+            <b>Ethics for the Working Mathematician</b><br/>
+            <b>Thursday 13th October–Thursday 1st December 2016, 5:00pm</b><br/>
+<em>See <a href="seminars-2016">this page</a> for more details</em><br/>
+As mathematicians we possess very particular talents, skills and training. We
+can do some very good things with these. We can also do some very bad things
+with these, in particular with the tools and techniques that we create. It is
+important to keep this in mind and to consider it when going out and working as
+a mathematician in a real-world setting. The universe extends far beyond the
+boundary of the pages we work on.<br/>
+In our daily activities as working mathematicians we run the very real risk of
+harming ourselves, those around us, and more broadly the society we live in.
+This can occur under duress from others, through sheer social obliviousness, or
+as a result of our single-mindedness when it comes to problem solving. It can
+even occur at times when we are consciously trying to do good and be helpful.<br/>
+It takes a degree of understanding and thought to guard against such
+eventualities. There is no deterministic algorithm for this; one must learn to
+act and respond more as a human, and not merely as a problem solving machine.<br/><br/>
+The purpose of these seminars is to equip mathematicians, as well as other
+technically-trained individuals, with some of the tools required to make
+ethical decisions and judgements in their line of work. First we need
+awareness: ethical issues in mathematics can be quite well-hidden from the
+average mathematician, so how do we identify them? Next we need motivation: now
+that we know our actions may have adverse effects, how do we weigh up whether
+to carry them out or not? Finally we need conviction: we may find ourselves
+under substantial pressure to act against our moral judgement, so how do we
+stand our ground and defend our decisions?<br/>
+These seminars will be highly interactive, highly involved, and at times
+challenging. Through examples and activities we will learn how to develop
+awareness, motivation, and conviction. These tools will serve you well as you
+go out into society as a working mathematician.
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+    <!--#include virtual="shared/meta.shtml"-->
+    <title>Seminars - CUEIMS</title>
+</head>
+<body>
+    <!--#include virtual="shared/header.shtml"-->
+    <div class="container">
+        <h1 style="text-align: center">Ethics in Mathematics Seminars, Michaelmas 2016</h1>
+        <!--<h3 style="text-align: center">To view current events, download our <a href="./termcard.pdf">termcard.</a></h3>-->
+        <p>
+            Seminars took place at 5pm on Thursdays, beginning 13th October, and running each week until 1st December, usually in MR3, Centre for Mathematical Sciences.<br/>
+        </p>
+        <div class="row">
+            <div class="col-sm-6">
+                <p><big><b>Overview:</b></big></p>
+                <p>
+As mathematicians we possess very particular talents, skills and training. We can do some very good things with these. We can also do some very bad things with these, in particular with the tools and techniques that we create. It is important to keep this in mind and to consider it when going out and working as a mathematician in a real-world setting. The universe extends far beyond the boundary of the pages we work on.
+<br/>In our daily activities as working mathematicians we run the very real risk of harming ourselves, those around us, and more broadly the society we live in. This can occur under duress from others, through sheer social obliviousness, or as a result of our single-mindedness when it comes to problem solving. It can even occur at times when we are consciously trying to do good and be helpful.
+<br/>It takes a degree of understanding and thought to guard against such eventualities. There is no deterministic algorithm for this; one must learn to act and respond more as a human, and not merely as a problem solving machine.
+                </p>
+                <p>
+The purpose of these seminars is to equip mathematicians, as well as other technically-trained individuals, with some of the tools required to make ethical decisions and judgements in their line of work. First we need awareness: ethical issues in mathematics can be quite well-hidden from the average mathematician, so how do we identify them? Next we need motivation: now that we know our actions may have adverse effects, how do we weigh up whether to carry them out or not? Finally we need conviction: we may find ourselves under substantial pressure to act against our moral judgement, so how do we stand our ground and defend our decisions?
+<br/>These seminars will be highly interactive, highly involved, and at times challenging. Through examples and activities we will learn how to develop awareness, motivation, and conviction. These tools will serve you well as you go out into society as a working mathematician.
+                </p>
+            </div>
+            <div class="col-sm-6">
+                <p><big><b>Seminar Abstracts:</b></big></p>
+                <p>
+    Seminar #1: "Keep calm and carry on."<br/>
+    To begin, we look at where such ethical issues may arise. What exactly might we do as mathematicians that causes harm? Who might we harm, and what might lead us to doing so? There are many situations, and people, who can influence and manipulate us into carrying out harmful acts as mathematicians. Realising where they might lie, and the sort of damage we might end up doing, is the first step in learning to combat them.
+                </p>
+                <p>
+    Seminar #2: "The allure of mathematics."<br/>
+    What motivates us as mathematicians? Ours is one of the few professions where we enjoy our job so much that we'd probably do it for free. Our dedication and determination to solve mathematical problems is one of our greatest strengths, but can also be our undoing.
+    Our ability for extreme focus is a double-edged sword; on the one hand it makes us excellent problem solvers, on the other hand it restricts our capacity to see the broader implications and consequences of our work.
+                </p>
+                <p>
+    Seminar #3: "Doing your job."<br/>
+    Do mathematicians have the right to voice moral objection? Is it even possible in our line of work? If so, how would we recognise when to object, how would we begin to go about it, and what sort of obstacles might we encounter when trying to do so?
+    Those who seek our services have the ability to manipulate and coerce us, and defending against such coercion is a highly non-trivial task. Handling these situations requires real-life experience of them, which is hard (but not impossible) to teach.
+                </p>
+                <p>
+    Seminar #4: "Mathematicians trying to help."<br/>
+    Mathematicians have taken it upon themselves at several points in history to work for the betterment of the human race. We have applied our specialised skills and abilities to solve problems of large social, economic and political importance. These highly complex solutions that we develop can have, and often have had, unintended consequences far beyond their original design. This often comes about because mathematicians fail to think ahead and ask the question "What am I making, and what else can it be used for?"
+                </p>
+                <p>
+    Seminar #5: "Using mathematics to prevent harm."<br/>
+    Mathematics can be used to fight crime, avert destruction, and protect our society. But how far are we willing to go to do this, what are the drawbacks of such pursuits, and are they worth doing "at any cost"? In the pursuit of preventing harm and improving society, are we capable of doing even more harm in the process? There are instances when this is obvious, but also instances when it becomes somewhat opaque.
+                </p>
+                <p>
+    Seminar #6: "The impartiality of mathematics."<br/>
+    We hold mathematics in very high regard, as the beacon of absolute truth. Mathematics does not have any intrinsic prejudice or bias; it reveals truth. But how do we infer meaning from truth? Mathematicians design systems to remove human subjectivity from decision making processes, to make them more impartial. Does this mean that that we've removed all subjectivity from the process? We must realise the strengths, and weaknesses, of the systems we design.
+                </p>
+                <p>
+    Seminar #7: "Standing on the shoulders of giants"<br/>
+    Our understanding of mathematics comes from building on that of those who came before us; we are taught and mentored by them. We admire their work, and by extension we admire them as people. So how well do these mathematicians prepare us for the real world, and how much more do we need to know? We work very hard to emulate them, but we must be careful not to do so absolutely or without question.
+                </p>
+                <p>
+    Seminar #8: "Going back to the start."<br/>
+    We look back at what we have learned, to see how we can pursue these ideas further. What more can we do, how can we do it, and where do we begin? Mathematics is actually quite a social profession, in a way. How we interact with others has a great deal of influence on what work we choose to do, and choose not to do. Understanding this is extremely important.
+                </p>
+            </div>
+        </div>
+    </div>`
+</body>
+</html>

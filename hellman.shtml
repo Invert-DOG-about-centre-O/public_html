@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+    <!--#include virtual="shared/meta.shtml"-->
+    <title>Hellman Talk Notes - CUEIMS</title>
+</head>
+<body>
+    <!--#include virtual="shared/header.shtml"-->
+    <div class="container">
+        <h1>Notes following the talk by Professor Hellman</h1>
+        <p>Professor Martin Hellman has very kindly provided some follow-up references and information after his CUEIMS talk "Reflections on Ethics and Cryptography" on 29 January 2019. A video recording of his talk will be made available shortly.</p>
+        <ul>
+            <li>Here is his <a href="https://ee.stanford.edu/~hellman/publications.html">Stanford Publications Page</a></li>
+            <li>The <a href="http://www-ee.stanford.edu/~hellman/publications/book3.pdf">free PDF</a> of his book "A New Map for Relationships: Creating True Love at Home & Peace on the Planet" is at the bottom (book #3) of his publications page.</li>
+            <li>The paper <a href="http://www-ee.stanford.edu/~hellman/publications/78.pdf">"Rethinking National Security"</a>, that he mentioned in his talk, is #78 on his publications page.</li>
+        </ul>
+        <p>Here is the list of seven "lessons" that he mentioned in his talk:</p>
+        <ol>
+            <li>It's easy to fool ourselves, so be vigilant. (Think of the Manhattan Project and "the devil on my shoulder.")</li>
+            <li>The value of outside help, even when (especially when) you don't think you need it. Dorothie helped me find a brilliant solution to my RSA dilemma.</li>
+            <li>Friends are better than enemies. Many agree, but few do it. Actively seek ways to heal conflicts. (Examples: Inman and RSA)</li>
+            <li>Lower the bar to get practice. I now see mistreating a spouse, child, parent, or coworker, as unethical. Not only will you get practice. Your life will get better, so you'll be motivated to continue working.</li>
+            <li>It's hard to be ethical in an unethical world. It's hard to see where it is unethical today. It's easy to see where it wasn't ethical in the past (Thomas Jefferson selling human beings; Alan Turing being hounded to death over his sexual orientation). So try to mentally project 100 years into the future and think what a future generation might see as unethical that today we tend to miss. (war, nuclear weapons, hunger?)</li>
+            <li>Making ethical decisions is not just morally desirable. In the nuclear age, in the cyber age, in an age of global environmental challenges, it is essential for human survival.</li>
+            <li>Self-interest requires spending some time on building a more ethical world. When queried, most people end up at roughly 1% per year risk of civilization being destroyed. That's 10% per decade and worse than even odds over the roughly 90 year life expectancy of a child born today.</li>
+        </ol>       
+    </div>
+</body>
+</html>
