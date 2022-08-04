@@ -131,8 +131,41 @@
                 </p>-->
         <hr />
         <h2>Upcoming Events:</h2>
-        There are currently no confirmed upcoming events.
-        <!-- <p>See the <a href="events">events page</a> for a full listing.</p> -->
+        <!-- There are currently no confirmed upcoming events. -->
+        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+        <b
+          >Seminar: An introduction to ethics in mathematics and why it
+          is important</b
+        ><br />
+        <b>Tuesday 11th October 2021, 4:00pm – Location TBD</b>
+        <br />
+        Mathematicians sit at the heart of technological advancement and
+        industrial progress. Mathematics is a universal tool. It can be used for
+        good, and it can be used for harm. To begin, we look at where harmful
+        situations may arise, and what exactly we as mathematicians are doing to
+        contribute to that harm. Though this harm may not (necessarily) come from
+        intentional malice, there are many situations, and people, who can
+        influence and manipulate us into carrying out harmful acts as
+        mathematicians. It is important to be able to recognise and react to these
+        scenarios, as we cannot always rely on external forces such as management
+        to guide what we do.
+
+        <hr />
+
+        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+        <b>Seminar: Financial Mathematics and Modelling</b><br />
+        <b>Tuesday 18th October 2021, 4:00pm – Location TBD</b>
+        <br />
+        We all know about examples of mathematicians misbehaving in finance, and
+        even being jailed as a result: Tom Hayes and Ke Xu are two examples. But
+        more subtle are the modelling tools mathematicians produce. Mathematical
+        modelling is ubiquitous in understanding the way the world works, from
+        finance to physics to climate patterns. Understanding how to develop and
+        use a model, as well as its limitations, and the way it interacts with the
+        world, is indispensable in preventing it from causing harm. Unfortunately,
+        as we saw in the financial crash of 2007, such models are sometimes poorly
+        understood, with devastating consequences.
+        <p>See the <a href="events">events page</a> for a full listing.</p>
         <!-- cmtc3: THIS IS OLD. WE NEED TO FIX THE EVENTS LIST TO MAKE SURE NOTHING WAS MISSED!
     <font size="5"><em>Dr Maurice Chiodo</em> presenting</font><br/>
             <b>Online discussion: An introduction to ethics in mathematics and why it is important</b><br/>
