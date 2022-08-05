@@ -1,31 +1,31 @@
 body {
   padding-top: 50px;
   padding: 50px 15px;
-  background-color: #f7eeff;
+  background-color: #f7f4ff;
 }
 .navbar-default {
-  border-color: #f7eeff;
+  border-color: #f7f4ff;
   background-color: #2211aa;
 }
 .navbar-default .navbar-brand {
-  color: #f7eeff;
+  color: #fff;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #f7eeff;
+  color: #fff;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #f7eeff;
+  color: #fff;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #f7eeff;
+  color: #fff;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #110788;
-  background-color: #f7eeff;
+  background-color: #f7f4ff;
 }
 .cueims-logo {
   margin: 7px 7px;
