@@ -10,7 +10,7 @@
       <h1 style="text-align: center">
         Cambridge University Ethics in Mathematics Society
       </h1>
-      <div class="col-sm-6">
+      <div style="column-width: 70ex">
         <p>
           Mathematics is one of the most fundamental areas of human study. It is
           both the language and the tool that connects our abstract
@@ -87,8 +87,6 @@
           mathematics is useful but never harmful, we will sleepwalk into
           becoming agents of harm.
         </p>
-      </div>
-      <div class="col-sm-6">
         <p>
           We are the Cambridge University Ethics in Mathematics Society, and we
           are here to help mathematicians recognise the ethical questions that
