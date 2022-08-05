@@ -16,9 +16,10 @@
       </button>
       <a href="./" class="navbar-left cueims-logo"
         ><img
-          src="resources/eim-w.svg"
+          src="resources/eim.svg"
           alt="logo"
           height="36"
+          style="filter: invert(100%);"
       /></a>
     </div>
     <div id="navbar" class="collapse navbar-collapse">
