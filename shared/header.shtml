@@ -16,10 +16,9 @@
       </button>
       <a href="./" class="navbar-left cueims-logo"
         ><img
-          src="./resources/logo-white.png"
+          src="resources/eim-w.svg"
           alt="logo"
           height="36"
-          width="78"
       /></a>
     </div>
     <div id="navbar" class="collapse navbar-collapse">
