@@ -16,13 +16,12 @@ body {
   margin: 0px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 3ex;
-  background-color: #f7f4ff;
-  color: #222;
+  background-color: #f2f4ff;
 }
 nav {
   overflow: hidden;
   background-color: #2211aa;
-  border-color: #f7f4ff;
+  border-color: #f2f4ff;
   color: #fff;
   display: flex;
   align-items: center;
