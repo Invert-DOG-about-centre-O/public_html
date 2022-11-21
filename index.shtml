@@ -6,12 +6,12 @@
   </head>
   <body>
     <!--#include virtual="shared/header.shtml"-->
-    <div class="container">
-      <h1 style="text-align: center">
-        Cambridge University Ethics in Mathematics Society
-      </h1>
-      <div style="column-width: 45ex">
-        <p style="margin-top: 0px">
+    <h1 style="text-align: center">
+      Cambridge University Ethics in Mathematics Society
+    </h1>
+    <div style="display:flex;max-width:1500px;margin:auto">
+      <div class="column">
+        <p>
           Mathematics is one of the most fundamental areas of human study. It is
           both the language and the tool that connects our abstract
           understanding with the physical world. Mathematics lies at the very
@@ -120,7 +120,8 @@
               >YouTube</a>.
           </b>
         </p>
-        <hr />
+      </div>
+      <div class="column">
         <h2>Upcoming Events:</h2>
         <!-- There are currently no confirmed upcoming events. -->
         <h3><em>Dr Maurice Chiodo</em> presenting</h3>
