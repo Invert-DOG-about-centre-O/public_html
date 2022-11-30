@@ -8,31 +8,8 @@
     <!--#include virtual="shared/header.shtml"-->
     <div class="container">
       <h1>Upcoming Events:</h1>
-      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-      <b
-        >Seminar: Psychology 101: How to survive as a mathematician at
-        work</b
-      ><br />
-      <b>Tuesday 22rd November 2022, 16:00–18:00 – MR5, CMS</b>
-      <br />
-      All mathematicians will, eventually, form some part of the workforce. The
-      abstract nature of mathematics may lead us to believe that our role is
-      'special', and that we won't need to worry about the usual workplace
-      interactions, issues, conflicts and dangers that may arise in other
-      professions. This is simply not true. We face the same issues, and need to
-      know how to deal with them. Our focused and dedicated nature means that we
-      may easily overlook instances of others trying to exploit or manipulate us
-      at work, resulting in harm to ourselves, and our work becoming harmful to
-      wider society. We need to know how to identify such people and situations,
-      and to protect ourselves against them.
-      <p>
-      Part of the
-        <a href="https://cueims.soc.srcf.net/2022/">2022 Ethics for the Working Mathematician</a>
-      series.
-      </p>
-
-      <hr />
-
+      There are currently no confirmed upcoming events.
+      <h1>Past Events:</h1>
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b
         >Seminar: Looking into the future, what more can
@@ -58,7 +35,33 @@
       series.
       </p>
 
-      <h1>Past Events:</h1>
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b
+        >Seminar: Psychology 101: How to survive as a mathematician at
+        work</b
+      ><br />
+      <b>Tuesday 22rd November 2022, 16:00–18:00 – MR5, CMS</b>
+      <br />
+      All mathematicians will, eventually, form some part of the workforce. The
+      abstract nature of mathematics may lead us to believe that our role is
+      'special', and that we won't need to worry about the usual workplace
+      interactions, issues, conflicts and dangers that may arise in other
+      professions. This is simply not true. We face the same issues, and need to
+      know how to deal with them. Our focused and dedicated nature means that we
+      may easily overlook instances of others trying to exploit or manipulate us
+      at work, resulting in harm to ourselves, and our work becoming harmful to
+      wider society. We need to know how to identify such people and situations,
+      and to protect ourselves against them.
+      <p>
+      Part of the
+        <a href="https://cueims.soc.srcf.net/2022/">2022 Ethics for the Working Mathematician</a>
+      series.
+      </p>
+
+      <hr />
+
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b
         >Seminar: Understanding the behaviour of the mathematical
