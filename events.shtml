@@ -8,7 +8,193 @@
     <!--#include virtual="shared/header.shtml"-->
     <div class="container">
       <h1>Upcoming Events:</h1>
-      There are currently no confirmed upcoming events.
+      <!-- There are currently no confirmed upcoming events. -->
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b
+        >Seminar: An introduction to ethics in mathematics and why it
+        is important</b
+      ><br />
+      <b>Wednesday 11th October 2023, 17:00–19:00 – MR4, CMS</b>
+      <br />
+      Mathematicians sit at the heart of technological advancement and
+      industrial progress. Mathematics is a universal tool. It can be used for
+      good, and it can be used for harm. To begin, we look at where harmful
+      situations may arise, and what exactly we as mathematicians are doing to
+      contribute to that harm. Though this harm may not (necessarily) come from
+      intentional malice, there are many situations, and people, who can
+      influence and manipulate us into carrying out harmful acts as
+      mathematicians. It is important to be able to recognise and react to these
+      scenarios, as we cannot always rely on external forces such as management
+      to guide what we do.
+      <p>
+      Part of the
+        <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Seminar: Financial Mathematics and Modelling</b><br />
+      <b>Monday 16th October 2023, 16:00–18:00 – MR13, CMS</b>
+      <br />
+      We all know about examples of mathematicians misbehaving in finance, and
+      even being jailed as a result: Tom Hayes and Ke Xu are two examples. But
+      more subtle are the modelling tools mathematicians produce. Mathematical
+      modelling is ubiquitous in understanding the way the world works, from
+      finance to physics to climate patterns. Understanding how to develop and
+      use a model, as well as its limitations, and the way it interacts with the
+      world, is indispensable in preventing it from causing harm. Unfortunately,
+      as we saw in the financial crash of 2007, such models are sometimes poorly
+      understood, with devastating consequences.
+      <p>
+      Part of the
+        <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Seminar: Cryptography, surveillance and privacy</b><br />
+      <b>Monday 23th October 2023, 16:00–18:00 – MR13, CMS</b>
+      <br />
+      Mathematicians have always played a central role in the making, and
+      breaking, of cryptography. We also play a key role in developing
+      surveillance tools, both for state actors and private organisations. Thus,
+      we have several ways of enabling the infringement of the privacy of
+      others. We can do so deliberately, by designing tools to break strong
+      encryption, or indirectly, by creating systems and platforms which collect
+      massive amounts of personal data of individuals. And we can do it
+      accidentally, by being careless or sloppy in the way we store the data of
+      others. In all of these cases, our work determines how much privacy people
+      can have.
+      <p>
+      Part of the
+        <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Seminar: Fairness and impartiality in algorithms and AI</b
+      ><br />
+      <b>Monday 30th October 2023, 16:00–18:00 – MR13, CMS</b>
+      <br />
+      Algorithms run the world, and mathematicians are designing them.
+      Algorithms decide what people read, what they buy, and when then can get a
+      loan. We often design these systems to remove human subjectivity from
+      decision making processes and to make them impartial, as is being done
+      with predictive policing algorithms and prison sentencing algorithms. But
+      how impartial, or fair, can a system designed by humans ever be? Moreover,
+      the internet and big data have given rise to massive new potential, from
+      targeted political advertising as done by Cambridge Analytica, to AI
+      technology such as deepfake videos and self-driving cars. Our 'solutions'
+      in these instances can bring about a whole new set of problems.
+      <p>
+      Part of the
+        <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Seminar: Regulation, accountability, and the law</b><br />
+      <b>Monday 6th November 2023, 16:00–18:00 – MR13, CMS</b>
+      <br />
+      The work of mathematicians in industry is now very close to its tangible
+      applications; we produce output that is extremely quick and easy to use.
+      Just look at machine-learned algorithms that compute credit scores. Now
+      that we sit so close to the applications, we need to consider what sort of
+      responsibility we have. There are things we are, and aren't, legally
+      allowed to do. And there are consequences we might face if we fall foul of
+      the law. Moreover, given that our work is often cutting-edge, we must
+      self-regulate to prevent the types of harm that legislators and others
+      have yet to realise is even possible.
+      <p>
+      Part of the
+        <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b
+        >Seminar: Understanding the behaviour of the mathematical
+        community</b
+      ><br />
+      <b>Monday 13th November 2023, 16:00–18:00 – MR13, CMS</b>
+      <br />
+      Just like every other academic field, mathematicians form their own
+      community, with their own conventions, common beliefs, and schools of
+      thought. We hand our teachings down through the generations, and this
+      process goes all the way back to Euclid. But the ways of thinking we
+      employ when doing mathematics in an abstract research setting may not
+      serve us well in an industrial setting. It is important to be aware that
+      not all the actions that make us good at mathematics will necessarily lead
+      to us producing good solutions to industrial or social problems. In fact,
+      some of our ways of viewing and approaching problems will hold us back
+      when working outside academia.
+      <p>
+      Part of the
+        <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b
+        >Seminar: Psychology 101: How to survive as a mathematician at
+        work</b
+      ><br />
+      <b>Monday 20rd November 2023, 16:00–18:00 – MR13, CMS</b>
+      <br />
+      All mathematicians will, eventually, form some part of the workforce. The
+      abstract nature of mathematics may lead us to believe that our role is
+      'special', and that we won't need to worry about the usual workplace
+      interactions, issues, conflicts and dangers that may arise in other
+      professions. This is simply not true. We face the same issues, and need to
+      know how to deal with them. Our focused and dedicated nature means that we
+      may easily overlook instances of others trying to exploit or manipulate us
+      at work, resulting in harm to ourselves, and our work becoming harmful to
+      wider society. We need to know how to identify such people and situations,
+      and to protect ourselves against them.
+      <p>
+      Part of the
+        <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b
+        >Seminar: Looking into the future, what more can
+        mathematicians do?</b
+      ><br />
+      <b>Monday 27th November 2023, 16:00–18:00 – MR13, CMS</b>
+      <br />
+      Being aware of the ethical issues that you as a mathematician may face is
+      an extremely important step. But this is only the first in a sequence of
+      potential steps. You can take this further, by starting to tell other
+      mathematicians you work with or interact with. You can try and get
+      involved with decision-making processes, by taking a seat at tables of
+      power and authority. And you could even work towards identifying the
+      unethical behaviour of other mathematicians completely unrelated to you,
+      and call out their harmful actions to the community and to the public.
+      This is fairly new and uncharted territory for mathematicians, and they're
+      exactly the sorts of activities we shy away from. But now is the time to
+      step up and take responsibility, because if we don't do it, then no-one
+      else will.
+      <p>
+      Part of the
+        <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+      series.
+      </p>
       <h1>Past Events:</h1>
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b
