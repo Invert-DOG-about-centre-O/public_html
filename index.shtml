@@ -124,32 +124,6 @@
       <div class="column">
         <h2>Upcoming Events:</h2>
         <!-- There are currently no confirmed upcoming events. -->
-
-        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-        <b
-          >Seminar: An introduction to ethics in mathematics and why it
-          is important</b
-        ><br />
-        <b>Wednesday 11th October 2023, 17:00–19:00 – MR4, CMS</b>
-        <br />
-        Mathematicians sit at the heart of technological advancement and
-        industrial progress. Mathematics is a universal tool. It can be used for
-        good, and it can be used for harm. To begin, we look at where harmful
-        situations may arise, and what exactly we as mathematicians are doing to
-        contribute to that harm. Though this harm may not (necessarily) come from
-        intentional malice, there are many situations, and people, who can
-        influence and manipulate us into carrying out harmful acts as
-        mathematicians. It is important to be able to recognise and react to these
-        scenarios, as we cannot always rely on external forces such as management
-        to guide what we do.
-        <p>
-        Part of the
-          <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
-        series.
-        </p>
-
-        <hr />
-
         <h3><em>Dr Maurice Chiodo</em> presenting</h3>
         <b>Seminar: Financial Mathematics and Modelling</b><br />
         <b>Monday 16th October 2023, 16:00–18:00 – MR13, CMS</b>
@@ -170,6 +144,29 @@
         </p>
 
         <hr />
+
+        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+        <b>Seminar: Cryptography, surveillance and privacy</b><br />
+        <b>Monday 23th October 2023, 16:00–18:00 – MR13, CMS</b>
+        <br />
+        Mathematicians have always played a central role in the making, and
+        breaking, of cryptography. We also play a key role in developing
+        surveillance tools, both for state actors and private organisations. Thus,
+        we have several ways of enabling the infringement of the privacy of
+        others. We can do so deliberately, by designing tools to break strong
+        encryption, or indirectly, by creating systems and platforms which collect
+        massive amounts of personal data of individuals. And we can do it
+        accidentally, by being careless or sloppy in the way we store the data of
+        others. In all of these cases, our work determines how much privacy people
+        can have.
+        <p>
+        Part of the
+          <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+        series.
+        </p>
+
+        <hr />
+
 
         <p>See the <a href="events">events page</a> for a full listing.</p>
       </div>
