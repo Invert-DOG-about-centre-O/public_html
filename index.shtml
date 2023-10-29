@@ -125,27 +125,6 @@
         <h2>Upcoming Events:</h2>
         <!-- There are currently no confirmed upcoming events. -->
         <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-        <b>Seminar: Financial Mathematics and Modelling</b><br />
-        <b>Monday 16th October 2023, 16:00–18:00 – MR13, CMS</b>
-        <br />
-        We all know about examples of mathematicians misbehaving in finance, and
-        even being jailed as a result: Tom Hayes and Ke Xu are two examples. But
-        more subtle are the modelling tools mathematicians produce. Mathematical
-        modelling is ubiquitous in understanding the way the world works, from
-        finance to physics to climate patterns. Understanding how to develop and
-        use a model, as well as its limitations, and the way it interacts with the
-        world, is indispensable in preventing it from causing harm. Unfortunately,
-        as we saw in the financial crash of 2007, such models are sometimes poorly
-        understood, with devastating consequences.
-        <p>
-        Part of the
-          <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
-        series.
-        </p>
-
-        <hr />
-
-        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
         <b>Seminar: Cryptography, surveillance and privacy</b><br />
         <b>Monday 23th October 2023, 16:00–18:00 – MR13, CMS</b>
         <br />
@@ -167,6 +146,28 @@
 
         <hr />
 
+        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+        <b>Seminar: Fairness and impartiality in algorithms and AI</b
+        ><br />
+        <b>Monday 30th October 2023, 16:00–18:00 – MR13, CMS</b>
+        <br />
+        Algorithms run the world, and mathematicians are designing them.
+        Algorithms decide what people read, what they buy, and when then can get a
+        loan. We often design these systems to remove human subjectivity from
+        decision making processes and to make them impartial, as is being done
+        with predictive policing algorithms and prison sentencing algorithms. But
+        how impartial, or fair, can a system designed by humans ever be? Moreover,
+        the internet and big data have given rise to massive new potential, from
+        targeted political advertising as done by Cambridge Analytica, to AI
+        technology such as deepfake videos and self-driving cars. Our 'solutions'
+        in these instances can bring about a whole new set of problems.
+        <p>
+        Part of the
+          <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+        series.
+        </p>
+
+        <hr />
 
         <p>See the <a href="events">events page</a> for a full listing.</p>
       </div>
