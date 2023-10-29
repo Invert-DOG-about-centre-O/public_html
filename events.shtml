@@ -10,28 +10,6 @@
       <h1>Upcoming Events:</h1>
       <!-- There are currently no confirmed upcoming events. -->
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-      <b>Seminar: Cryptography, surveillance and privacy</b><br />
-      <b>Monday 23th October 2023, 16:00–18:00 – MR13, CMS</b>
-      <br />
-      Mathematicians have always played a central role in the making, and
-      breaking, of cryptography. We also play a key role in developing
-      surveillance tools, both for state actors and private organisations. Thus,
-      we have several ways of enabling the infringement of the privacy of
-      others. We can do so deliberately, by designing tools to break strong
-      encryption, or indirectly, by creating systems and platforms which collect
-      massive amounts of personal data of individuals. And we can do it
-      accidentally, by being careless or sloppy in the way we store the data of
-      others. In all of these cases, our work determines how much privacy people
-      can have.
-      <p>
-      Part of the
-        <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
-      series.
-      </p>
-
-      <hr />
-
-      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b>Seminar: Fairness and impartiality in algorithms and AI</b
       ><br />
       <b>Monday 30th October 2023, 16:00–18:00 – MR13, CMS</b>
@@ -150,6 +128,28 @@
       series.
       </p>
       <h1>Past Events:</h1>
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Seminar: Cryptography, surveillance and privacy</b><br />
+      <b>Monday 23th October 2023, 16:00–18:00 – MR13, CMS</b>
+      <br />
+      Mathematicians have always played a central role in the making, and
+      breaking, of cryptography. We also play a key role in developing
+      surveillance tools, both for state actors and private organisations. Thus,
+      we have several ways of enabling the infringement of the privacy of
+      others. We can do so deliberately, by designing tools to break strong
+      encryption, or indirectly, by creating systems and platforms which collect
+      massive amounts of personal data of individuals. And we can do it
+      accidentally, by being careless or sloppy in the way we store the data of
+      others. In all of these cases, our work determines how much privacy people
+      can have.
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+      series.
+      </p>
+
+      <hr />
 
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b>Seminar: Financial Mathematics and Modelling</b><br />

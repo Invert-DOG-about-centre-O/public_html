@@ -125,28 +125,6 @@
         <h2>Upcoming Events:</h2>
         <!-- There are currently no confirmed upcoming events. -->
         <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-        <b>Seminar: Cryptography, surveillance and privacy</b><br />
-        <b>Monday 23th October 2023, 16:00–18:00 – MR13, CMS</b>
-        <br />
-        Mathematicians have always played a central role in the making, and
-        breaking, of cryptography. We also play a key role in developing
-        surveillance tools, both for state actors and private organisations. Thus,
-        we have several ways of enabling the infringement of the privacy of
-        others. We can do so deliberately, by designing tools to break strong
-        encryption, or indirectly, by creating systems and platforms which collect
-        massive amounts of personal data of individuals. And we can do it
-        accidentally, by being careless or sloppy in the way we store the data of
-        others. In all of these cases, our work determines how much privacy people
-        can have.
-        <p>
-        Part of the
-          <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
-        series.
-        </p>
-
-        <hr />
-
-        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
         <b>Seminar: Fairness and impartiality in algorithms and AI</b
         ><br />
         <b>Monday 30th October 2023, 16:00–18:00 – MR13, CMS</b>
@@ -161,6 +139,27 @@
         targeted political advertising as done by Cambridge Analytica, to AI
         technology such as deepfake videos and self-driving cars. Our 'solutions'
         in these instances can bring about a whole new set of problems.
+        <p>
+        Part of the
+          <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
+        series.
+        </p>
+
+        <hr />
+
+        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+        <b>Seminar: Regulation, accountability, and the law</b><br />
+        <b>Monday 6th November 2023, 16:00–18:00 – MR13, CMS</b>
+        <br />
+        The work of mathematicians in industry is now very close to its tangible
+        applications; we produce output that is extremely quick and easy to use.
+        Just look at machine-learned algorithms that compute credit scores. Now
+        that we sit so close to the applications, we need to consider what sort of
+        responsibility we have. There are things we are, and aren't, legally
+        allowed to do. And there are consequences we might face if we fall foul of
+        the law. Moreover, given that our work is often cutting-edge, we must
+        self-regulate to prevent the types of harm that legislators and others
+        have yet to realise is even possible.
         <p>
         Part of the
           <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
