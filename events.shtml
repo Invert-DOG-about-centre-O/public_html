@@ -8,24 +8,29 @@
     <!--#include virtual="shared/header.shtml"-->
     <div class="container">
       <h1>Upcoming Events:</h1>
-      <!-- There are currently no confirmed upcoming events. -->
+      There are currently no confirmed upcoming events.
+
+      <h1>Past Events:</h1>
+
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b
-        >Seminar: Understanding the behaviour of the mathematical
-        community</b
+        >Seminar: Looking into the future, what more can
+        mathematicians do?</b
       ><br />
-      <b>Monday 13th November 2023, 16:00–18:00 – MR13, CMS</b>
+      <b>Monday 27th November 2023, 16:00–18:00 – MR13, CMS</b>
       <br />
-      Just like every other academic field, mathematicians form their own
-      community, with their own conventions, common beliefs, and schools of
-      thought. We hand our teachings down through the generations, and this
-      process goes all the way back to Euclid. But the ways of thinking we
-      employ when doing mathematics in an abstract research setting may not
-      serve us well in an industrial setting. It is important to be aware that
-      not all the actions that make us good at mathematics will necessarily lead
-      to us producing good solutions to industrial or social problems. In fact,
-      some of our ways of viewing and approaching problems will hold us back
-      when working outside academia.
+      Being aware of the ethical issues that you as a mathematician may face is
+      an extremely important step. But this is only the first in a sequence of
+      potential steps. You can take this further, by starting to tell other
+      mathematicians you work with or interact with. You can try and get
+      involved with decision-making processes, by taking a seat at tables of
+      power and authority. And you could even work towards identifying the
+      unethical behaviour of other mathematicians completely unrelated to you,
+      and call out their harmful actions to the community and to the public.
+      This is fairly new and uncharted territory for mathematicians, and they're
+      exactly the sorts of activities we shy away from. But now is the time to
+      step up and take responsibility, because if we don't do it, then no-one
+      else will.
       <p>
       Part of the
         <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
@@ -61,29 +66,28 @@
 
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b
-        >Seminar: Looking into the future, what more can
-        mathematicians do?</b
+        >Seminar: Understanding the behaviour of the mathematical
+        community</b
       ><br />
-      <b>Monday 27th November 2023, 16:00–18:00 – MR13, CMS</b>
+      <b>Monday 13th November 2023, 16:00–18:00 – MR13, CMS</b>
       <br />
-      Being aware of the ethical issues that you as a mathematician may face is
-      an extremely important step. But this is only the first in a sequence of
-      potential steps. You can take this further, by starting to tell other
-      mathematicians you work with or interact with. You can try and get
-      involved with decision-making processes, by taking a seat at tables of
-      power and authority. And you could even work towards identifying the
-      unethical behaviour of other mathematicians completely unrelated to you,
-      and call out their harmful actions to the community and to the public.
-      This is fairly new and uncharted territory for mathematicians, and they're
-      exactly the sorts of activities we shy away from. But now is the time to
-      step up and take responsibility, because if we don't do it, then no-one
-      else will.
+      Just like every other academic field, mathematicians form their own
+      community, with their own conventions, common beliefs, and schools of
+      thought. We hand our teachings down through the generations, and this
+      process goes all the way back to Euclid. But the ways of thinking we
+      employ when doing mathematics in an abstract research setting may not
+      serve us well in an industrial setting. It is important to be aware that
+      not all the actions that make us good at mathematics will necessarily lead
+      to us producing good solutions to industrial or social problems. In fact,
+      some of our ways of viewing and approaching problems will hold us back
+      when working outside academia.
       <p>
       Part of the
         <a href="https://cueims.soc.srcf.net/2023/">2023 Ethics for the Working Mathematician</a>
       series.
       </p>
-      <h1>Past Events:</h1>
+
+      <hr />
 
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b>Seminar: Regulation, accountability, and the law</b><br />
