@@ -8,7 +8,190 @@
     <!--#include virtual="shared/header.shtml"-->
     <div class="container">
       <h1>Upcoming Events:</h1>
-      There are currently no confirmed upcoming events.
+      <!-- There are currently no confirmed upcoming events. -->
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Deciding whether to begin</b><br />
+      <b>Tuesday 23rd January 2024, 14:00–15:30 – MR10, CMS</b>
+      <br />
+      <p
+        >Why are you providing this mathematical product or service, and should
+          you even do so?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Developlment of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Diversity and perspectives</b><br />
+      <b>Tuesday 30th January 2024, 14:00–15:30 – MR10, CMS</b>
+      <br />
+      <p
+        >Do your co-workers, superiors, and you have sufficient perspective, and
+        do you understand the limitations and biases in your thinking?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Handling data and information</b><br />
+      <b>Tuesday 6th February 2024, 14:00–15:30 – MR1, CMS</b>
+      <br />
+      <p
+        >Are you using authorised and morally obtained datasets, in a
+        responsible manner?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Data manipulation and inference</b><br />
+      <b>Tuesday 13th February 2024, 14:00–15:30 – MR1, CMS</b>
+      <br />
+      <p
+        >Do you have the expertise to properly manipulate data ensuring quality
+        and ethics?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: The mathematisation of the problem</b><br />
+      <b>Tuesday 20th February 2024, 14:00–15:30 – MR1, CMS</b>
+      <br />
+      <p
+        >What optimisation objectives and constraints have you chosen, and what
+        are their real-life consequences? Who might the other impacted parties
+        be?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Communicating and documenting your work</b><br />
+      <b>Tuesday 27th February 2024, 14:00–15:30 – MR10, CMS</b>
+      <br />
+      <p
+      >Are you properly considering how to comment and document your work and
+      communicate the results to those who need them?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Falsifiability and feedback loops</b><br />
+      <b>Tuesday 5th March 2024, 14:00–15:30 – MR1, CMS</b>
+      <br />
+      <p
+        >Is your work falsifiable, and can you handle its large-scale impact and
+        any feedback loops that arise?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Explainable and safe mathematics</b><br />
+      <b>Tuesday 12th March 2024, 14:00–15:30 – MR1, CMS</b>
+      <br />
+      <p
+        >Is your mathematical output explainable, and followed up with proper
+        monitoring and maintenance?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Mathematical artefacts have politics</b><br />
+      <b>TBC</b>
+      <br />
+      <p
+        >Are you aware of other non-mathematical aspects and the political
+        nature of your work? What do you do to earn trust in yourself and your
+        product?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Emergency response strategies</b><br />
+      <b>TBC</b>
+      <br />
+      <p
+        >Do you have a non-technical response strategy for when things go wrong?
+        Do you have a support network, including peers who support you and with
+        whom you can talk freely?</p >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
 
       <h1>Past Events:</h1>
 
