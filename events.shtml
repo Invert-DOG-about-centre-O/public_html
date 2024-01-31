@@ -9,43 +9,6 @@
     <div class="container">
       <h1>Upcoming Events:</h1>
       <!-- There are currently no confirmed upcoming events. -->
-
-      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-      <b>Discussion: Deciding whether to begin</b><br />
-      <b>Tuesday 23rd January 2024, 14:00–15:30 – MR10, CMS</b>
-      <br />
-      <p
-        >Why are you providing this mathematical product or service, and should
-          you even do so?</p
-      >
-      <p>
-      Part of the
-      <a href="https://cueims.soc.srcf.net/2024/advanced"
-        >2024 Responsible Developlment of Mathematical Works</a
-      >
-      series.
-      </p>
-
-      <hr />
-
-      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-      <b>Discussion: Diversity and perspectives</b><br />
-      <b>Tuesday 30th January 2024, 14:00–15:30 – MR10, CMS</b>
-      <br />
-      <p
-        >Do your co-workers, superiors, and you have sufficient perspective, and
-        do you understand the limitations and biases in your thinking?</p
-      >
-      <p>
-      Part of the
-      <a href="https://cueims.soc.srcf.net/2024/advanced"
-        >2024 Responsible Development of Mathematical Works</a
-      >
-      series.
-      </p>
-
-      <hr />
-
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b>Discussion: Handling data and information</b><br />
       <b>Tuesday 6th February 2024, 14:00–15:30 – MR1, CMS</b>
@@ -194,6 +157,42 @@
 
 
       <h1>Past Events:</h1>
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Diversity and perspectives</b><br />
+      <b>Tuesday 30th January 2024, 14:00–15:30 – MR10, CMS</b>
+      <br />
+      <p
+        >Do your co-workers, superiors, and you have sufficient perspective, and
+        do you understand the limitations and biases in your thinking?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Deciding whether to begin</b><br />
+      <b>Tuesday 23rd January 2024, 14:00–15:30 – MR10, CMS</b>
+      <br />
+      <p
+        >Why are you providing this mathematical product or service, and should
+          you even do so?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Developlment of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
 
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b
