@@ -10,24 +10,6 @@
       <h1>Upcoming Events:</h1>
       <!-- There are currently no confirmed upcoming events. -->
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-      <b>Discussion: Data manipulation and inference</b><br />
-      <b>Tuesday 13th February 2024, 14:00–15:30 – MR1, CMS</b>
-      <br />
-      <p
-        >Do you have the expertise to properly manipulate data ensuring quality
-        and ethics?</p
-      >
-      <p>
-      Part of the
-      <a href="https://cueims.soc.srcf.net/2024/advanced"
-        >2024 Responsible Development of Mathematical Works</a
-      >
-      series.
-      </p>
-
-      <hr />
-
-      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b>Discussion: The mathematisation of the problem</b><br />
       <b>Tuesday 20th February 2024, 14:00–15:30 – MR1, CMS</b>
       <br />
@@ -139,6 +121,25 @@
 
 
       <h1>Past Events:</h1>
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Data manipulation and inference</b><br />
+
+      <b>Tuesday 13th February 2024, 14:00–15:30 – MR1, CMS</b>
+      <br />
+      <p
+        >Do you have the expertise to properly manipulate data ensuring quality
+        and ethics?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
 
       <h3><em>Anders Hansen</em> presenting</h3>
       <b
