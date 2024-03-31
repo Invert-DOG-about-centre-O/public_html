@@ -9,67 +9,6 @@
     <div class="container">
       <h1>Upcoming Events:</h1>
       <!-- There are currently no confirmed upcoming events. -->
-
-      <h3><em>Dr Daan van de Weem</em> presenting</h3>
-      <b
-        >European Initiatives for Mathematics in the Global South</b
-      >
-      <br />
-      <b>Monday 4th March 2024, 16:00 – MR3, CMS</b>
-      <br />
-      <p
-        >Mathematics is a major economic driving force, for better or for worse.
-        However, mathematical research and teaching and hence societal and
-        economic impact are not distributed evenly across the globe. Many
-        countries are effectively cut off from the global mathematical
-        community. There are a number of initiatives aimed at helping
-        mathematical communities in the Global South connect with the
-        mathematical community in the Global North. All these initiatives face
-        challenges, from lack of funding to lack of personnel to politics to the
-        more inherent issue of how to promote mathematics in another country
-        without being colonialist. In this talk, we will discuss some of these
-        initiatives, their approaches and successes, their challenges and
-        solutions.</p
-      >
-
-      <hr />
-
-      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-      <b>Discussion: Falsifiability and feedback loops</b><br />
-      <b>Tuesday 5th March 2024, 14:00–15:30 – MR1, CMS</b>
-      <br />
-      <p
-        >Is your work falsifiable, and can you handle its large-scale impact and
-        any feedback loops that arise?</p
-      >
-      <p>
-      Part of the
-      <a href="https://cueims.soc.srcf.net/2024/advanced"
-        >2024 Responsible Development of Mathematical Works</a
-      >
-      series.
-      </p>
-
-      <hr />
-
-      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-      <b>Discussion: Explainable and safe mathematics</b><br />
-      <b>Tuesday 12th March 2024, 14:00–15:30 – MR1, CMS</b>
-      <br />
-      <p
-        >Is your mathematical output explainable, and followed up with proper
-        monitoring and maintenance?</p
-      >
-      <p>
-      Part of the
-      <a href="https://cueims.soc.srcf.net/2024/advanced"
-        >2024 Responsible Development of Mathematical Works</a
-      >
-      series.
-      </p>
-
-      <hr />
-
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b>Discussion: Mathematical artefacts have politics</b><br />
       <b>TBC</b>
@@ -109,6 +48,65 @@
 
       <h1>Past Events:</h1>
 
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Explainable and safe mathematics</b><br />
+      <b>Tuesday 12th March 2024, 14:00–15:30 – MR1, CMS</b>
+      <br />
+      <p
+        >Is your mathematical output explainable, and followed up with proper
+        monitoring and maintenance?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+      <b>Discussion: Falsifiability and feedback loops</b><br />
+      <b>Tuesday 5th March 2024, 14:00–15:30 – MR1, CMS</b>
+      <br />
+      <p
+        >Is your work falsifiable, and can you handle its large-scale impact and
+        any feedback loops that arise?</p
+      >
+      <p>
+      Part of the
+      <a href="https://cueims.soc.srcf.net/2024/advanced"
+        >2024 Responsible Development of Mathematical Works</a
+      >
+      series.
+      </p>
+
+      <hr />
+
+      <h3><em>Dr Daan van de Weem</em> presenting</h3>
+      <b
+        >European Initiatives for Mathematics in the Global South</b
+      >
+      <br />
+      <b>Monday 4th March 2024, 16:00 – MR3, CMS</b>
+      <br />
+      <p
+        >Mathematics is a major economic driving force, for better or for worse.
+        However, mathematical research and teaching and hence societal and
+        economic impact are not distributed evenly across the globe. Many
+        countries are effectively cut off from the global mathematical
+        community. There are a number of initiatives aimed at helping
+        mathematical communities in the Global South connect with the
+        mathematical community in the Global North. All these initiatives face
+        challenges, from lack of funding to lack of personnel to politics to the
+        more inherent issue of how to promote mathematics in another country
+        without being colonialist. In this talk, we will discuss some of these
+        initiatives, their approaches and successes, their challenges and
+        solutions.</p
+      >
+
+      <hr />
       <h3><em>Dr Maurice Chiodo</em> presenting</h3>
       <b>Discussion: Communicating and documenting your work</b><br />
       <b>Tuesday 27th February 2024, 14:00–15:30 – MR10, CMS</b>

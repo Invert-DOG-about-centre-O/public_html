@@ -124,37 +124,14 @@
       <div class="column">
         <h2>Upcoming Events:</h2>
         <!-- There are currently no confirmed upcoming events. -->
-        <h3><em>Dr Daan van de Weem</em> presenting</h3>
-        <b
-          >European Initiatives for Mathematics in the Global South</b
-        >
-        <br />
-        <b>Monday 4th March 2024, 16:00 – MR3, CMS</b>
-        <br />
-        <p
-          >Mathematics is a major economic driving force, for better or for worse.
-          However, mathematical research and teaching and hence societal and
-          economic impact are not distributed evenly across the globe. Many
-          countries are effectively cut off from the global mathematical
-          community. There are a number of initiatives aimed at helping
-          mathematical communities in the Global South connect with the
-          mathematical community in the Global North. All these initiatives face
-          challenges, from lack of funding to lack of personnel to politics to the
-          more inherent issue of how to promote mathematics in another country
-          without being colonialist. In this talk, we will discuss some of these
-          initiatives, their approaches and successes, their challenges and
-          solutions.</p
-        >
-
-        <hr />
-
         <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-        <b>Discussion: Falsifiability and feedback loops</b><br />
-        <b>Tuesday 5th March 2024, 14:00–15:30 – MR1, CMS</b>
+        <b>Discussion: Mathematical artefacts have politics</b><br />
+        <b>TBC</b>
         <br />
         <p
-          >Is your work falsifiable, and can you handle its large-scale impact and
-          any feedback loops that arise?</p
+          >Are you aware of other non-mathematical aspects and the political
+          nature of your work? What do you do to earn trust in yourself and your
+          product?</p
         >
         <p>
         Part of the
@@ -165,6 +142,22 @@
         </p>
 
         <hr />
+
+        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+        <b>Discussion: Emergency response strategies</b><br />
+        <b>TBC</b>
+        <br />
+        <p
+          >Do you have a non-technical response strategy for when things go wrong?
+          Do you have a support network, including peers who support you and with
+          whom you can talk freely?</p >
+        <p>
+        Part of the
+        <a href="https://cueims.soc.srcf.net/2024/advanced"
+          >2024 Responsible Development of Mathematical Works</a
+        >
+        series.
+        </p>
 
         <p>See the <a href="events">events page</a> for a full listing.</p>
       </div>
