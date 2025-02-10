@@ -130,51 +130,40 @@
       <div class="column">
         <h2>Upcoming Events:</h2>
         <!-- There are currently no confirmed upcoming events. -->
-      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-      <b
-        >Seminar: An introduction to ethics in mathematics and why it
-        is important</b
-      ><br />
-      <b>Monday 14th October 2024, 16:00–18:00 – MR14, CMS</b>
-      <br />
-      Mathematicians sit at the heart of technological advancement and
-      industrial progress. Mathematics is a universal tool. It can be used for
-      good, and it can be used for harm. To begin, we look at where harmful
-      situations may arise, and what exactly we as mathematicians are doing to
-      contribute to that harm. Though this harm may not (necessarily) come from
-      intentional malice, there are many situations, and people, who can
-      influence and manipulate us into carrying out harmful acts as
-      mathematicians. It is important to be able to recognise and react to these
-      scenarios, as we cannot always rely on external forces such as management
-      to guide what we do.
-      <p>
-      Part of the
-        <a href="https://cueims.soc.srcf.net/2024/">2024 Ethics for the Working Mathematician</a>
-      series.
-      </p>
 
-      <hr />
+        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
+        <b>Advanced EiM Seminar 3: Handling data and information</b><br />
+        <b>Tuesday 11th February 2025, 14:00–15:30 – MR19, CMS</b>
+        <br />
+        <p
+          >Are you using authorised and morally obtained datasets, in a
+          responsible manner?</p
+        >
+        <p>
+        Part of the
+        <a href="https://cueims.soc.srcf.net/2025/advanced"
+          >2025 Advanced Ethics in Mathematics</a
+        >
+        series.
+        </p>
 
-      <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-      <b>Seminar: Financial Mathematics and Modelling</b><br />
-      <b>Monday 21st October 2024, 16:00–18:00 – MR14, CMS</b>
-      <br />
-      We all know about examples of mathematicians misbehaving in finance, and
-      even being jailed as a result: Tom Hayes and Ke Xu are two examples. But
-      more subtle are the modelling tools mathematicians produce. Mathematical
-      modelling is ubiquitous in understanding the way the world works, from
-      finance to physics to climate patterns. Understanding how to develop and
-      use a model, as well as its limitations, and the way it interacts with the
-      world, is indispensable in preventing it from causing harm. Unfortunately,
-      as we saw in the financial crash of 2007, such models are sometimes poorly
-      understood, with devastating consequences.
-      <p>
-      Part of the
-        <a href="https://cueims.soc.srcf.net/2024/">2024 Ethics for the Working Mathematician</a>
-      series.
-      </p>
+        <hr />
 
-      <hr />
+        <h3><em>Dr Daniel Cruz</em> presenting</h3>
+        <b>Monday 17th February 2025, 16:00 – online</b>
+        <br />
+        <p
+          >The development and application of mathematics to study biological
+          questions, collectively called mathematical biology or biomathematics,
+          has a long and rich history dating back centuries. And while the
+          interaction between these two areas of study has yielded remarkable
+          developments in both fields, there are also several ethical concerns
+          which affect the scope and interpretation of biomathematical questions
+          and results. In this talk, we provide an overview of these concerns
+          along with some examples. In particular, we consider the computational
+          modelling of human biology and the concept of a <q>virtual human
+          twin</q>.</p
+        >
 
         <p>See the <a href="events">events page</a> for a full listing.</p>
       </div>
