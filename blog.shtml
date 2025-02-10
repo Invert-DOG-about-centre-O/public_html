@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+    <!--#include virtual="shared/meta.shtml"-->
+    <title>Blog – CUEIMS</title>
+</head>
+<body>
+    <!--#include virtual="shared/header.shtml"-->
+    <div class="container">
+        <h1>Our Experience and Learnings from the Cambridge University Ethics in Mathematics Course 2023/24</h1>
+        <p>
+            Zoya Yasmine and Paul Siewert<br>
+            <i>Reading time: 15 minutes</i>
+
+        </p>
+        <p>
+ 
+            ‘The hardest thing to teach a mathematician is to do less mathematics’. This insight became more apparent as we progressed further through the Ethics in Mathematics course at the University of Cambridge. ‘Ethics’ and ‘mathematics’ might seem like very unrelated concepts. Mathematics is a strict systematic discipline that focuses on the development of logically water-tight arguments for abstract claims to provide explanations to quantifiable questions. Ethics, on the other hand, is often messier; it involves the balancing of unquantifiable values, requiring logic that goes far beyond pure reason. This messiness is not something that those who engage in mathematics are necessarily familiar with, or indeed like. 
+
+        </p>
+        <p> 
+            Through a series of over 16 sessions delivered by <a href="https://www.mauricechiodo.com/">Dr Maurice Chiodo</a> with the Cambridge University Ethics in Mathematics Society, we became aware that ethics and mathematics are not so unrelated. In fact, now more than ever, the work of mathematicians is having ethical implications on society. 
+
+        </p>
+        <p>
+
+            Mathematics underpins AI models that exhibit discriminatory policing practices as well as faulty systems that have caused hundreds to be wrongly prosecuted for crimes they did not commit. It determines through algorithms which students can go to which institutions, and is used for financial predictions that determine the flow of assets worth billions of pounds every day. Therefore, we believe that it is so important that our mathematicians are introduced to the ways in which their works, beyond being abstract scribblings on a page, can also present inherent ethical challenges insofar they may be applied to the unpredictable and complicated real world.  
+
+        </p>
+        <h2> What is Ethics in Mathematics? </h2>
+        <p>
+            Ethics in mathematics is a very small, but growing, research field concerned with best practices in mathematical work, typical practical challenges for mathematical modelling, and approaches to better identify and resolve ethical issues arising in the use of mathematical technology. 
+
+        </p>
+        <p>
+
+            Whereas it is often productive to have mathematicians try and find neat solutions to problems, this becomes problematic if these mathematicians have only been trained to work on abstract problems that admit a neat solution. In a mathematics degree there is no need or space to “challenge the question”, and already in high-school students are taught that all practical and ethical issues that may arise in a mathematical problem are incidental and should therefore not concern them as mathematicians. To the contrary, there are many such issues which only mathematicians can know about, but have to be taught to pay attention to. 
+
+
+        </p>
+        <p>
+            The Michaelmas lectures rightfully emphasised this message as we considered many case studies in which mathematics has ethically impacted the real world. Both during the lectures and in the following discussion sessions we saw how such scenarios often seem to follow predictable patterns, and that usually the underlying issue is not mistakes (or lies) in the mathematics, but <i>how</i> mathematicians tend to approach problems. In later lectures, we took a step back and tried to pinpoint in what ways these behaviours can be beneficial or dangerous, and saw that they appear to be informed by interactions between technology and “the law”, as well as the psychology and social behaviour of mathematicians.
+
+
+        </p>
+        <p>
+            As the previous may be a bit abstract, the best way to demonstrate the focus of the Ethics in Mathematics sessions is through the hypothetical case study that we tackled as a group in Lent term. We were tasked to think about the practical problems and social risks of developing an AI-powered bus route and timetabling system (BRTS) for a small-medium sized city, like Canterbury UK. 
+
+
+        </p>
+        <p>
+            At first glance, we did not appreciate how even something as simple as a BRTS could have various ramifications for citizens, democracy, and the environment. Yet, these rich ethical dilemmas occupied over 15 hours of discussions between students of maths, policy, law, and philosophy. To consider the effects of the BRTS, we structured our conversations around Chiodo and Müller’s <a href="https://arxiv.org/abs/2306.09131">‘10 pillars for responsible development’</a>. Our sessions focussed on various issues – from the preparatory work required to responsibly design the bus timetable, to central questions of good practices in maths and data science. 
+ 
+        </p>
+        <h2>
+            What are the ethics of AI-powered bus timetabling and routing?  
+
+        </h2>
+        <p>
+
+            When presented with the task to develop a new BRTS, we were tempted to jump straight into finding solutions. However, Chiodo and Müller’s pillars outline some practical issues that should be considered <i>throughout the entire lifecycle</i> of mathematical development. For instance, the first pillar, ‘Deciding Whether to Begin’, prompted us to do something which was very unfamiliar to the mathematicians in our group: scrutinising whether the question itself was a problem that needed to be solved. We discussed broadly to what extent a new BRTS would even address issues important to citizens, how it could cause harm (potentially unfairly skewed towards certain demographics), and ultimately whether our mathematical tools were the right way to address Canterbury’s bus timetables. 
+
+        </p>
+        <p>
+
+            Next, for pillar two, ‘Diversity and Perspectives’, we looked inward at our own team’s biases and recognised that, for instance, none of us had any experience in city planning, none of us knew the challenges of using the bus as a visually impaired person, nor had any of us ever driven a bus. Thus, we devised basic strategies on how we might reach out to others to ensure we do not overlook the needs of others or fundamental realities of designing public transport. 
+
+        </p>
+        <p>
+
+            As part of pillar three (‘Handling Data and Information’) and pillar four (‘Data Manipulation and Inference’), we engaged in deeper questioning of the origins and the quality of the data that would be used to train our hypothetical AI model. While this might seem like an issue of purely technical nature, we quickly found ourselves in conversation about whether we had legal access to use the data, whether our data distribution matched our application domain, and how our data could be used in harmful ways – for instance, to exclude certain members of the public from using the bus. 
+
+        </p>
+        <p>
+
+            So far in our project to develop a BRTS, almost no mathematics has been done, which just shows one of the reasons ethical concerns are sometimes undervalued, namely that discussing them takes a lot of time which may be construed as “not work”. The mathematics proper then begins in pillar five. ‘The Mathematisation of the Problem’ is about the ethics of the modelling and thus the mathematical methods used. For this point, it is most readily apparent that a huge amount of ethical challenges needs to tackled, for example, whether in our model there were any unjustifiable assumptions or reductions, how we approached nuances that could not be measured or quantified easily with a formula, and even details about the tools used such as computational cost, different degrees of confidence in models, and concerns regarding maintenance.
+
+
+        </p>
+        <p>
+            The remaining five pillars are about everything that has to be considered around and after the mathematics is done. For pillar six, ‘Communicating and Documenting your Work’, we highlighted some of the more practical considerations that are often overlooked in AI development phases. For example, we spoke about the quality of our documentation for our background decisions, reasoning, and mathematical work. 
+
+
+        </p>
+        <p>
+            Pillars seven through nine are about some key recurring issues which are not inherently mathematical, but inherent in all mathematical development and need to be kept in mind. By now we had quite some experience and were able to spend an hour listing issues around falsifiability (“What even would be an error or a failure of our BRTS?” “Can anyone check whether our system is truly better than the old one?”), feedback loops (“How could our BRTS change people’s habits, impacting the routing again?” “In what ways could the project spin out of our control?”), explainability (“How can we communicate our reasoning for changes that concern citizens?”), safety (“How shall we monitor the system and how can we react to problems?”), and politics (“Which stakeholders incur which political costs from our system, and how could this cost us our jobs?”). 
+
+
+        </p>
+        <p>
+            In the final tenth pillar, ‘Emergency Response Strategies’, we again confronted an issue that is unfamiliar to mathematicians: “What could go wrong, and how can we respond?”. A typical response to this is “I can prove that nothing will go wrong” or even the equivalent “we are clever, we will be careful to make sure nothing goes wrong”. Therefore, we discussed some of the safeguards we might have in place to protect individuals if our BRTS fails and the appropriate response plans. This final pillar really focused our attention on finding non-mathematical interventions to engage when mathematics might fail. 
+
+        </p>
+        <h2>
+
+            The interdisciplinary nature of Ethics in Mathematics </h2>
+        <p>  
+            The above only highlights a very high-level summary of the discussions that we had as part of our Lent Ethics in Mathematics sessions. However, we hope that the interdisciplinary elements of our conversations about a project, which was originally a mathematical problem, are evident. We had discussions about politics (relating to potential conflicts with funders of our timetable which may have skewed incentives), law (concerning copyright protection over datasets and environmental regulations impacting our bus routes), finance (to manage the costs of large-scale unforeseen problems) and of course, mathematics (to consider the methods we could use to design an optimised BRTS). 
+
+        </p>
+        <p>
+
+            Exploring the different responses to questions posed by people in varied disciplines was ultimately what made the Ethics in Mathematics sessions so insightful, unique, and interesting. Mathematicians are a group of people that often stay within their field of study and amongst others with the same interests. Thus, exposure to their thoughts and way of solving problems can sometimes be inaccessible. The Ethics in Mathematics course was an opportunity to gain an understanding of how mathematicians approach problems and to recognise the value of their logical and deductive thinking. It was also interesting to see how those (without technical backgrounds) imparted understanding on the mathematicians in the room. This presented such an interesting opportunity to integrate the approach of mathematicians with those of us from different academic backgrounds to challenge how solving a problem does not always end at presenting a mathematically correct theorem.    
+ 
+        </p>
+        <h2> What is your key takeaway from the Ethics in Mathematics sessions? </h2>
+        <p>  
+            Too often, those who are leading technological change (often with a mathematics background) do not grasp the ethical implications of their works. This is a consequence of how mathematicians are trained, and how mathematics is perceived by the public. These issues can only be realised by mathematicians asking themselves, and others, more questions about the purpose, effects, and processes of how they are using mathematics. This questioning is something that mathematicians themselves have to do, because it is important throughout the whole development process, and often closely linked with technical problems. 
+
+        </p>
+        <p>
+
+            At the same time, it is often misunderstood <i>who</i> the other people involved in such discussions should be. Mathematical work in the real world can profit greatly from mathematicians seriously getting into conversations with lawyers, philosophers, customers (especially those who are typically underserved by modern technology), and, perhaps most importantly, those already working in the industry (such as bus drivers in our example). These are the people who have years of real-world experience with the systems mathematicians are trying to fix, typically in good faith. All this not only ensures safer development of new technologies, but also of technologies which serve humanity better. 
+
+        </p>
+        <p>
+
+            If you are at the University of Cambridge and looking for enlightening discussions, learning about the risks and opportunities of the practical applications of mathematics, and engaging in conversations with students from various backgrounds, the Ethics in Mathematics classes are where you need to be. The 2019 lectures are also <a href="https://youtube.com/playlist?list=PLhjUVXp9e11Qu0mw6HlsIu_RJpT6N6N-J&si=VECBf_EDCTdohTe7">available on YouTube</a>, but do join us in person if you can.
+
+        </p>
+        <p>
+
+            <i>The Ethics in Mathematics sessions are held weekly throughout Michaelmas and Lent term. In Michaelmas, students can expect an introductory course into the Ethics of Mathematics and the final term makes up the advanced course. The advanced course is focused on applying the learnings of the first part of the course to a hypothetical scenario – this year, we looked at an AI-powered bus routing and timetable system. 
+            </i>
+        </p>
+    </div>
+</body>
+</html>
