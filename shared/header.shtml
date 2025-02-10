@@ -18,7 +18,6 @@
       <a href="termcards/termcard-2016-mich.pdf">Michaelmas 2016</a>
     </div>
   </div>
-  <a href="committee">Committee</a>
 </nav>
 <script>
   const link = document.URL.split("/");
