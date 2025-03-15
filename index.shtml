@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <!--#include virtual="shared/meta.shtml"-->
+    <script src="/event.js" defer></script>
     <title>CUEIMS</title>
   </head>
   <body>
@@ -127,48 +128,10 @@
           </b>
         </p>
       </div>
-      <div class="column">
+      <div class="column" id="home-events">
         <h2>Upcoming Events:</h2>
-        <!-- There are currently no confirmed upcoming events. -->
 
-        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-        <b>Advanced EiM Seminar 5: The mathematisation of the problem</b><br />
-        <b>Tuesday 25th February 2025, 14:00–15:30 – MR1, CMS</b>
-        <br />
-        <p
-          >What optimisation objectives and constraints have you chosen, and what
-          are their real-life consequences? Who might the other impacted parties
-          be?</p
-        >
-        <p>
-        Part of the
-        <a href="https://cueims.soc.srcf.net/2025/advanced"
-          >2025 Advanced Ethics in Mathematics</a
-        >
-        series.
-        </p>
-
-        <hr />
-
-        <h3><em>Dr Maurice Chiodo</em> presenting</h3>
-        <b>Advanced EiM Seminar 6: Communicating and documenting your work</b><br />
-        <b>Tuesday 4th March 2025, 14:00–15:30 – MR1, CMS</b>
-        <br />
-        <p
-          >Are you properly considering how to comment and document your work and
-          communicate the results to those who need them?</p
-        >
-        <p>
-        Part of the
-        <a href="https://cueims.soc.srcf.net/2025/advanced"
-          >2025 Advanced Ethics in Mathematics</a
-        >
-        series.
-        </p>
-
-        <hr />
-
-        <p>See the <a href="events">events page</a> for a full listing.</p>
+        <p id="see-rest">See the <a href="events">events page</a> for a full listing.</p>
       </div>
     </div>
   </body>
