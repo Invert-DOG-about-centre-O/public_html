@@ -2,7 +2,7 @@
   <img src="resources/eim.svg" alt="logo" width="90" />
   <a href="./">Home</a>
   <a href="about">About Us</a>
-  <a href="speakers">Past Speakers</a>
+  <a href="speakers.shtml">Past Speakers</a>
   <a href="blog">Blog</a>
 </nav>
 <script>
