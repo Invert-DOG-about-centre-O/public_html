@@ -13,6 +13,13 @@
     <div style="display:flex;max-width:1500px;margin:auto">
       <div class="column">
         <p>
+	  Welcome to our homepage. Our goal is to empower people to understand the
+	  influence of mathematics and technology on their lives better. In particular,
+	  we want to help mathematicians in developping tools in a way that minimises
+	  the risk of harm while enabling positive impact. We offer a 
+          <a href="https://cueims.soc.srcf.net/2025/intro.html">lecture course</a> on these topics.
+	</p>  
+        <p>
           Mathematics is one of the most fundamental areas of human study. It is
           both the language and the tool that connects our abstract
           understanding with the physical world. Mathematics lies at the very
