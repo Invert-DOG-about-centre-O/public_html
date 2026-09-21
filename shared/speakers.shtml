@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--#include virtual="shared/meta.shtml"-->
+    <title>About – CUEIMS</title>
+</head>
+<body>
+    <!--#include virtual="shared/header.shtml"-->
+<div class="container">
+
+  <!-- To add a photo, replace
+         <div class="portrait" data-monogram="XX"></div>
+       with
+         <div class="portrait"><img src="resources/speakers/name-slug.jpg" alt="Full Name"></div>
+       Leave the rest of the card alone. Mixed placeholders and photos
+       render fine, so you can fill these in as clearances come back. -->
+
+  <div class="speaker-grid">
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Ross_Anderson.jpg" alt="Ross Anderson"></div>
+      <figcaption>Prof Ross Anderson <span class="honours">FRS FREng</span></figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Julian_Assange.jpg" alt="Julian Assange"></div>
+      <figcaption>Julian Assange <span class="honours">WikiLeaks Founder</span></figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Dan_Bernstein.jpg" alt="Daniel J Bernstein"></div>
+      <figcaption>Daniel J Bernstein</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/William_Binney.jpg" alt="William Binney"></div>
+      <figcaption>William Binney <span class="honours">NSA Whistleblower</span></figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="PB"></div>
+      <figcaption>Dr Piers Bursill-Hall <span class="honours">EiMP Co-Founder</span></figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Joanna_Bryson.jpg" alt="Joanna Bryson"></div>
+      <figcaption>Prof Joanna Bryson</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="AC"></div>
+      <figcaption>Alexander Chamolly</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="MC"></div>
+      <figcaption>Dr Maurice Chiodo <span class="honours">EiMP Co-Founder</span></figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="DC"></div>
+      <figcaption>Dr Daniel Cruz</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="TD"></div>
+      <figcaption>Tom Daley</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Thomas_Drake.jpg" alt="Thomas Drake"></div>
+      <figcaption>Thomas Drake <span class="honours">NSA Whistleblower</span></figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Paul_Ernest.jpg" alt="Paul Ernest"></div>
+      <figcaption>Paul Ernest</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="MG"></div>
+      <figcaption>Maria A. Gutierrez</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Martin_Hellman.jpg" alt="Martin Hellman"></div>
+      <figcaption>Martin Hellman <span class="honours">Diffie-Hellman Key Exchange</span></figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="CI"></div>
+      <figcaption>Christian Ikeokwu</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Anders_C_Hansen.jpg" alt="Anders Hansen"></div>
+      <figcaption>Prof Anders Hansen</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="JH"></div>
+      <figcaption>Prof Jane Hutton</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Arjen_Kamphuis.jpg" alt="Arjen Kamphuis"></div>
+      <figcaption>Arjen Kamphuis</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="KK"></div>
+      <figcaption>Prof Kay Kirkpatrick</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Tanja_Lange.jpg" alt="Tanja Lange"></div>
+      <figcaption>Tanja Lange</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="GL"></div>
+      <figcaption>Guy Lipman</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="RP"></div>
+      <figcaption>Richard Pinch</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Leila_Schneps.jpg" alt="Leila Schneps"></div>
+      <figcaption>Leila Schneps</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="BS"></div>
+      <figcaption>Prof Bonnie Schulman</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Edward_Snowden.jpg" alt="Edward Snowden"></div>
+      <figcaption>Edward Snowden <span class="honours">NSA Whistleblower</span></figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Sir_David_Spiegelhalter.jpg" alt="David Spiegelhalter"></div>
+      <figcaption>Sir David Spiegelhalter <span class="honours">OBE FRS</span></figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Richard_Stallman.jpg" alt="Richard Stallman"></div>
+      <figcaption>Richard Stallman</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="DW"></div>
+      <figcaption>Dr Daan van de Weem</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="SW"></div>
+      <figcaption>Serena Wang</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="MW"></div>
+      <figcaption>Mustafa Warsi</figcaption>
+    </figure>
+
+    <figure class="speaker">
+      <div class="portrait" data-monogram="JW"></div>
+      <figcaption>James Wright</figcaption>
+    </figure>
+
+  </div>
+
+  <!-- Any photo used under CC BY or CC BY-SA must be credited. Uncomment
+       and fill in as you add images; delete the block if every photo you
+       end up using is public domain or your own.
+-->
+
+  <!-- Note that Thomas Drake photo requires page to be non-commercial, else GFDL license ought to be used -->
+   
+  <p class="speaker-credits">
+    Photographs: Ross Anderson by Markus Kuhn - Own work, CC BY 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=3793206">WikiMedia Commons</a>.
+    Julian Assange by Kacy Bao / WikiPortraits, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=168303081">WikiMedia Commons</a>.
+    Daniel Bernstein by Alexander Klink - Own work, CC BY 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=12475827">WikiMedia Commons</a>.
+    William Binney by Rama, CC BY-SA 2.0 fr, <a href="https://commons.wikimedia.org/w/index.php?curid=28781457">WikiMedia Commons</a>.
+    Joanna Bryson by World Economic Forum - A Global Conversation on Artificial Intelligence at 10:28, CC BY 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=79818310">WikiMedia Commons</a>.
+    Thomas Drake by S L O W K I N G, CC BY-NC 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=32333639">WikiMedia Commons</a>.
+    Paul Ernest by Rnest2002, CC BY-SA 3.0, <a href="https://en.wikipedia.org/wiki/File:Paul_Ernest_at_the_computer.jpg">Wikipedia</a>.
+    Martin Hellman by User .:Ajvol:., CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=786284">WikiMedia Commons</a>.
+    Anders C Hansen by EditWikiFun - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=117286681">WikiMedia Commons</a>.
+    Arjen Kamphuis by Dennis van Zuijlekom, CC BY-SA 2.0, <a href="https://commons.wikimedia.org/w/index.php?curid=81901817">WikiMedia Commons</a>.
+    Tanja Lange, CC0 from <a href="https://commons.wikimedia.org/w/index.php?curid=74311978">WikiMedia Commons</a>.
+    Leila Schneps by CoralieCC - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=31486322">WikiMedia Commons</a>.
+    Edward Snowden by <a href="https://www.youtube.com/user/TheWikiLeaksChannel">TheWikiLeaksChannel</a> - Derived from: File:Edward Snowden speaks about government transparency at Sam Adams award presentation in Moscow.webm @20s, CC BY 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=28971285">WikiMedia Commons</a>.
+    Sir David Spiegelhalter by Paul Clarke - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=126068204">WikiMedia Commons</a>.
+    Richard Stallman by Patafisik - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=199070084">WikiMedia Commons</a>.
+  </p>
+
+</div>
+</body>
+</html>

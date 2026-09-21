@@ -1,23 +1,8 @@
 <nav>
   <img src="resources/eim.svg" alt="logo" width="90" />
   <a href="./">Home</a>
-  <a href="about">About</a>
-  <a href="events">Events</a>
-  <a href="recordings">Recordings</a>
-  <div class="dropdown">
-    <button>Termcard ▼</button>
-    <div>
-      <a href="termcards/termcard-2021-mich.pdf">Michaelmas 2021</a>
-      <a href="termcards/termcard-2020-mich.pdf">Michaelmas 2020</a>
-      <a href="termcards/termcard-2019-mich.pdf">Michaelmas 2019</a>
-      <a href="termcards/termcard-2019-lent.pdf">Lent 2019</a>
-      <a href="termcards/termcard-2018-mich.pdf">Michaelmas 2018</a>
-      <a href="termcards/termcard-2018-lent.pdf">Lent 2018</a>
-      <a href="termcards/termcard-2017-mich.pdf">Michaelmas 2017</a>
-      <a href="termcards/termcard-2017-lent.pdf">Lent 2017</a>
-      <a href="termcards/termcard-2016-mich.pdf">Michaelmas 2016</a>
-    </div>
-  </div>
+  <a href="about">About Us</a>
+  <a href="speakers">Past Speakers</a>
   <a href="blog">Blog</a>
 </nav>
 <script>
