@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--#include virtual="shared/meta.shtml"-->
+    <title>EiM-Advanced Course – CUEiMS</title>
+</head>
+<body>
+    <!--#include virtual="shared/header.shtml"-->
+    <div class="container">
+        <br/>
+        <p>
+            This is the course page for our annual advanced course in Lent. Here is a link 
+            to a blogpost about the 2024 edition: <a href="https://cueims.soc.srcf.net/blog"
+            >https://cueims.soc.srcf.net/blog</a>. To be updated soon!
+        </p>
+        </div>
+</body>
+</html>

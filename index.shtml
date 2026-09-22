@@ -15,7 +15,7 @@
         <p>
 	  Welcome to our homepage. Our goal is to empower people to understand the
 	  influence of mathematics and technology on their lives better. In particular,
-	  we want to help mathematicians in developping tools in a way that minimises
+	  we want to help mathematicians in developing tools in a way that minimises
 	  the risk of harm while enabling positive impact. We offer a 
           <a href="https://cueims.soc.srcf.net/2025/intro.html">lecture course</a> on these topics.
 	</p>  
@@ -106,39 +106,64 @@
         <p>
           Most of our talks take place in the Centre for Mathematical Sciences.
         </p>
+        
+      </div>
+      <div class="column" id="socials">
+        <h2>Clicky stuffs</h2>
+        
         <p>
           <b>
-            Sign up to our
-            <a href="https://lists.cam.ac.uk/mailman/listinfo/soc-cueims"
-              >mailing list</a
-            >
-            for the latest updates.
+            Fill out our <a href="https://forms.gle/dRGymNdTovSaJuEc8">signup form</a
+            > to be added to the mailing list and WhatsApp.
           </b>
         </p>
+
         <p>
           <b>
             Follow us on
-            <a href="https://www.instagram.com/ethicsinmathematics/">Instagram</a>.
+            <a href="https://www.instagram.com/ethicsinmathematics/">Instagram</a>, 
+            <a href="https://www.facebook.com/cueims">Facebook</a>, 
+            <a href="https://x.com/cueims">X</a>, and 
+            <a href="https://www.linkedin.com/company/cambridge-university-ethics-in-mathematics/">
+              LinkedIn</a>.
           </b>
         </p>
-        <p>
-          <b>
-            Find us on
-            <a href="https://www.youtube.com/channel/UCXYvnBHXYKz6lSywJiPod4Q"
-              >YouTube</a>.
-          </b>
-        </p>
-        <p>
-          <b>
-            Contact us at
-            <a href="mailto:cueims@srcf.net">cueims@srcf.net</a>.
-          </b>
-        </p>
-      </div>
-      <div class="column" id="home-events">
-        <h2>Upcoming Events:</h2>
 
-        <p id="see-rest">See the <a href="events">events page</a> for a full listing.</p>
+        <p>
+          <b>
+            Watch some old talks on
+            <a href="https://www.youtube.com/channel/UCXYvnBHXYKz6lSywJiPod4Q">YouTube</a>.
+          </b>
+        </p>
+
+        <p>
+          <b>
+            Manage your
+            <a href="https://lists.cam.ac.uk/mailman/listinfo/soc-cueims"
+              >mailing list subscription</a>.
+          </b>
+        </p>
+
+        <p>
+          <b>
+            Check out our <a href="https://cueims.soc.srcf.net/speakers">past speakers</a>.
+          </b>
+        </p>
+
+        <p>
+          <b>
+            Check out a <a href="https://cueims.soc.srcf.net/blog">blogpost</a> by our students.
+          </b>
+        </p>
+        <p>
+          <b>
+            Donate to us: <a href="https://forms.gle/9MgAnVgSkayoTqyt5">https://forms.gle/9MgAnVgSkayoTqyt5</a>.
+            <i>We have neither a membership fees nor corporate sponsors. We are entirely funded by donations.</i>
+          </b>
+        </p>
+
+        <h2>Termcard Michaelmas 2026 (Incoming!!!)</h2>
+
       </div>
     </div>
   </body>

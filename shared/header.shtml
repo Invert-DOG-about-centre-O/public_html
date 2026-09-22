@@ -1,8 +1,11 @@
 <nav>
   <img src="resources/eim.svg" alt="logo" width="90" />
   <a href="./">Home</a>
-  <a href="about">About Us</a>
+  <a href="story">Our Story</a>
   <a href="speakers">Past Speakers</a>
+  <a href="michaelmas-course">EiM Lecture Course</a>
+  <a href="lent-course">EiM-Advanced Course</a>
+  <a href="committee">Committee</a>
   <a href="blog">Blog</a>
 </nav>
 <script>

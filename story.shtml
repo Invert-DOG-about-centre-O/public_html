@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--#include virtual="shared/meta.shtml"-->
+    <title>Our Story – CUEiMS</title>
+</head>
+<body>
+    <!--#include virtual="shared/header.shtml"-->
+    <div class="container">
+        <h1>Our Story</h1>
+        <p>
+            CUEiMS was founded in 2016 in the aftermath of a series of events where actions 
+            by mathematicians and the (mis)use of mathematical work caused widespread 
+            societal harm. Many students and academics came to be of the view that a 
+            contributing factor to these events was a lack of formal ethical training for 
+            mathematicians. In an age of information where mathematicians and mathematical 
+            tools had become much sought after, those with the power to create useful 
+            mathematics also needed the expertise to produce and wield these responsibly. 
+            In particular, there was need for discourse on the specific ethical issues 
+            that pertain to the unique technical aspects of a practising mathematician's 
+            work. CUEiMS was formed to fill this gap.
+        </p>
+        <p>
+            More story incoming. A full list of our past events is <a href="https://cueims.soc.srcf.net/events">
+            here</a>.
+        </p>
+
+    </div>
+</body>
+</html>

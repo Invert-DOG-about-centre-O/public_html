@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--#include virtual="shared/meta.shtml"-->
+    <title>EiM Lecture Course – CUEiMS</title>
+</head>
+<body>
+    <!--#include virtual="shared/header.shtml"-->
+    <div class="container">
+        <br/>
+        This is the course page for our annual seminar series in Michaelmas. To be updated soon!
+    </div>
+</body>
+</html>
