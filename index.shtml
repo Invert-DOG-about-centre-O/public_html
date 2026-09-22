@@ -3,7 +3,7 @@
   <head>
     <!--#include virtual="shared/meta.shtml"-->
     <script src="/event.js" defer></script>
-    <title>CUEIMS</title>
+    <title>CUEiMS</title>
   </head>
   <body>
     <!--#include virtual="shared/header.shtml"-->

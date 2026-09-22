@@ -81,3 +81,83 @@ nav a.current-link {
 .dropdown:hover div {
   display: block;
 }
+
+
+/* ---- Past speakers grid ---------------------------------------------- */
+:root { --grid-width: 1284px; }
+
+.speaker-grid {
+  --portrait-ratio: 4 / 5;
+  --grid-gap: 1.75rem;
+  --frame: #d8ddf7;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--grid-gap);
+  margin: 2.5rem 0 3rem;
+  padding: 0;
+
+  width: min(100vw - 3rem, var(--grid-width));
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.speaker { margin: 0; }
+
+.speaker .portrait {
+  aspect-ratio: var(--portrait-ratio);
+  background: var(--frame);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.speaker .portrait img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+  display: block;
+}
+
+.speaker .portrait[data-monogram]::after {
+  content: attr(data-monogram);
+  font-size: 3.25rem;
+  letter-spacing: 0.06em;
+  opacity: 0.45;
+}
+
+.speaker figcaption {
+  margin-top: 0.65rem;
+  line-height: 1.35;
+  font-size: 1.2rem;
+}
+
+.speaker .honours {
+  display: block;
+  font-size: 0.85em;
+  opacity: 0.7;
+}
+
+.speaker-credits {
+  width: min(100vw - 3rem, var(--grid-width));
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 2.5rem;
+  font-size: 0.6rem;
+  line-height: 1.7;
+  opacity: 0.7;
+}
+
+@media (max-width: 1000px) {
+  .speaker-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 680px) {
+  .speaker-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 400px) {
+  .speaker-grid { grid-template-columns: 1fr; max-width: 300px; }
+}
