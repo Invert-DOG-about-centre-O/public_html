@@ -10,17 +10,49 @@
     <h1 style="text-align: center">
       Cambridge University Ethics in Mathematics Society
     </h1>
-    <div style="display:flex;max-width:1500px;margin:auto">
+    <!-- <div style="display:flex;max-width:1500px;margin:auto"> -->
+    <div class="home-columns">
       <div class="column">
         <p>
 	  Welcome to our homepage. Our goal is to empower people to understand the
 	  influence of mathematics and technology on their lives better. In particular,
 	  we want to help mathematicians in developing tools in a way that minimises
 	  the risk of harm while enabling positive impact. We offer a 
-    <a href="https://cueims.soc.srcf.net/michaelmas-course">lecture course</a> on these topics 
-    in Michaelmas and an <a href="https://cueims.soc.srcf.net/lent-course">advanced discussion course</a> 
-    in Lent.
+    <a href="https://cueims.soc.srcf.net/michaelmas-course">lecture course</a> on 
+    these topics in Michaelmas and an <a href="https://cueims.soc.srcf.net/lent-course">
+    advanced discussion course</a> in Lent.  We also occasionally have invited speaker 
+    events and socials where we provide open room for discussion.
 	</p>  
+  <p>
+    Technology's influence on the world we live in hardly needs explaining. We are now 
+    more than ever aware of how big data models, cyber security, automated weapons, and 
+    of course so-called artificial intelligence affect society. It is obvious that these 
+    technologies present ethical issues: What is the best way to use them? How can they 
+    be made accessible? Which adverse effects might they have, and how can this be 
+    mitigated? Should they be regulated in certain domains of life, and by whom? 
+</p>
+<p>
+We believe all of these questions are of huge importance. In addition, we think there's 
+something missing from them: the people who create these technologies, the developers. 
+Because the technologies that are so impactful today are mathematical in nature, they are 
+developed by mathematicians (in the broad sense). In most cases, these people were mathematics 
+or CS undergrads in Cambridge (or perhaps Princeton) just a couple of years ago, and now 
+they are changing the world. If you are in Cambridge now, you may be one of them soon. We 
+think the opportunities for mathematicians to learn about and reflect on mathematics' 
+influence on the world are often very limited. This is why we provide a forum for both. 
+With our seminars we hope to give mathematicians tools and insight to do maths better.
+</p>
+<p>
+For us, there is not only the ethics <i>of</i> technology. Technology is not just a thing 
+that comes into the world from nothing and then has to be dealt with. Technology is created 
+by people. It is a process that transforms society. Therefore we are focussed on the 
+ethics <i>in</i> technology, <i>in</i> mathematics, <i>in</i> computer science, that is, 
+the questions that people who develop new technologies need to confront as it is happening. 
+We do not give sermons about justice, nor do we specialise in moral philosophy. Our aim is 
+to identify factors that make a mathematical technology more or less successful, and to 
+adapt our work accordingly.
+  </p>
+  <!--
         <p>
           Mathematics is one of the most fundamental areas of human study. It is
           both the language and the tool that connects our abstract
@@ -105,8 +137,10 @@
           can do, and give them some of the tools and insight that they will
           need to prevent such harm from taking place.
         </p>
+      -->
         <p>
-          Most of our talks take place in the Centre for Mathematical Sciences.
+          Most of our talks take place in the <a href="https://www.cms.cam.ac.uk/">
+          Centre for Mathematical Sciences</a>.
         </p>
         
       </div>
@@ -168,13 +202,18 @@
 
         <p>
           <b>
-            Donate to us: <a href="https://forms.gle/9MgAnVgSkayoTqyt5">https://forms.gle/9MgAnVgSkayoTqyt5</a>.
+            Donate to us: <a href="https://forms.gle/9MgAnVgSkayoTqyt5">donation form</a>.
             <i>We have neither a membership fees nor corporate sponsors. We are entirely funded by donations 
             from members and alumni.</i>
           </b>
         </p>
 
-        <h2>Termcard Michaelmas 2026 (Incoming!!!)</h2>
+        <h2>Termcard — Michaelmas 2026</h2>
+
+<a href="resources/termcard-2026-mich.png">
+  <img class="termcard" src="resources/termcard-2026-mich.png"
+       alt="Michaelmas 2026 termcard: list of CUEiMS events and dates">
+</a>
 
       </div>
     </div>

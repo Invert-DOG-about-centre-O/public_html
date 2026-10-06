@@ -122,6 +122,13 @@
       <figcaption>Guy Lipman</figcaption>
     </figure>
 
+    <!--
+    <figure class="speaker">
+      <div class="portrait"><img src="resources/speakers/Alva_Markelius.JPG" alt="Alva Markelius"></div>
+      <figcaption>Alva Markelius</figcaption>
+    </figure>
+  -->
+
     <figure class="speaker">
       <div class="portrait" data-monogram="RP"></div>
       <figcaption>Richard Pinch</figcaption>

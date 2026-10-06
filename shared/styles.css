@@ -161,3 +161,36 @@ nav a.current-link {
 @media (max-width: 400px) {
   .speaker-grid { grid-template-columns: 1fr; max-width: 300px; }
 }
+
+/* ---- Homepage two-column layout -------------------------------------- */
+.home-columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  align-items: flex-start;
+
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  box-sizing: border-box;
+}
+
+.home-columns > .column {
+  margin: 0;        /* cancel the auto margins — they fight gap and wrapping */
+  min-width: 0;     /* let the column shrink below its content width */
+  flex: 2 1 340px;
+}
+
+.home-columns > #socials {
+  flex: 1 1 280px;
+}
+
+/* Safety net for any long unbroken URL in the links column. */
+.home-columns a { overflow-wrap: anywhere; }
+
+.termcard {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #d8ddf7;
+}
